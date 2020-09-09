@@ -1,0 +1,1581 @@
+[7/9/2020 1:35:36 PM]:tmi.twitch.tv 001 righteousriley_ :Welcome, GLHF!
+:tmi.twitch.tv 002 righteousriley_ :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 righteousriley_ :This server is rather new
+:tmi.twitch.tv 004 righteousriley_ :-
+:tmi.twitch.tv 375 righteousriley_ :-
+:tmi.twitch.tv 372 righteousriley_ :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 righteousriley_ :>
+[7/9/2020 1:35:36 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[7/9/2020 1:35:36 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[7/9/2020 1:35:36 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[7/9/2020 1:35:36 PM]:righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 1:35:36 PM]:righteousriley_.tmi.twitch.tv 353 righteousriley_ = #righteousriley_ :righteousriley_
+:righteousriley_.tmi.twitch.tv 366 righteousriley_ #righteousriley_ :End of /NAMES list
+@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+[7/9/2020 1:35:36 PM]@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=73899023;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #righteousriley_
+[7/9/2020 1:36:13 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:36:41 PM]:ckelpsh!ckelpsh@ckelpsh.tmi.twitch.tv JOIN #righteousriley_
+:needhymn!needhymn@needhymn.tmi.twitch.tv JOIN #righteousriley_
+:streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 1:37:13 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:38:13 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:38:44 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 1:39:13 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:40:13 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:40:14 PM]PING :tmi.twitch.tv
+[7/9/2020 1:41:13 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:42:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:43:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:44:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:44:21 PM]PING :tmi.twitch.tv
+[7/9/2020 1:45:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:46:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:46:24 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 1:47:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:48:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:48:21 PM]PING :tmi.twitch.tv
+[7/9/2020 1:48:44 PM]@badge-info=;badges=;client-nonce=90e854272b29cd832aa3bd1dedbcfe7d;color=;display-name=webguyjosh;emotes=1:12-13;flags=;id=8361fe6e-8eb0-4e1b-82f7-17a3f0a051f7;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594327725737;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :O hey there :)
+[7/9/2020 1:49:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:49:58 PM]@badge-info=;badges=;client-nonce=e8f1178e468addf55ec989597beafb09;color=;display-name=webguyjosh;emotes=;flags=;id=f82c7178-f053-4d11-b9dc-ae8f6ecf6278;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594327799451;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Can you do a stream coding parralax.py?
+[7/9/2020 1:50:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:50:41 PM]:webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 1:51:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:51:14 PM]@badge-info=;badges=;client-nonce=e6cfe87f814f70c45a9e9be6149d1e1c;color=;display-name=webguyjosh;emotes=;flags=;id=213caab2-5355-4371-ad3d-cbc7e1c148c7;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594327875706;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Flying birds and moving mountains
+[7/9/2020 1:51:16 PM]@badge-info=;badges=;client-nonce=64823063324733bcdeac628314fba484;color=;display-name=webguyjosh;emotes=;flags=;id=6faf5d5a-2234-455a-84c1-878ded2873ed;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594327877860;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Ya know
+[7/9/2020 1:52:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:52:43 PM]:ckelpsh!ckelpsh@ckelpsh.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 1:52:51 PM]@badge-info=;badges=;client-nonce=fc090ae8d5b503217e32d27ffbc0dd09;color=;display-name=webguyjosh;emotes=;flags=;id=2a95b1a1-308e-475d-8f87-5aeac526860c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594327972449;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Looks dope, it's in python?
+[7/9/2020 1:53:14 PM]PING :tmi.twitch.tv
+[7/9/2020 1:53:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:53:58 PM]@badge-info=;badges=;client-nonce=7434a6182277f58c7023cc8d6c92ea19;color=;display-name=webguyjosh;emotes=;flags=;id=90579f6c-f08b-4499-8ba5-0f5f9083665d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328039101;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Sickkk that sounds awesome
+[7/9/2020 1:54:14 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:54:25 PM]@badge-info=;badges=;client-nonce=5577e66617a7fb2779687c02c3d36248;color=;display-name=webguyjosh;emotes=;flags=;id=11f8c3be-d0ba-41ce-bdd6-f974e0af7ed0;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328065930;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Weird timing, but I was gonna stream for the first time Saturday, got a bunch of assets in the works
+[7/9/2020 1:55:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:56:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:57:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:57:25 PM]@badge-info=;badges=;client-nonce=1a5b83c37aa583bf22d358aeafe079f2;color=;display-name=webguyjosh;emotes=;flags=35-44:A.3;id=fe738c7b-b3ad-48e9-8d1c-198b3a24b42b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328245970;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Too many hours, been hitting 55-60 killin me, that's why I wanna start streamin, get a hobby
+[7/9/2020 1:57:36 PM]@badge-info=;badges=;client-nonce=fe38e2f2a4e1ad7b7106d8a9d262ea10;color=;display-name=webguyjosh;emotes=;flags=;id=9a9d0c33-cb29-451b-a60d-d0eb9e1293c2;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328257868;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :How did your shopify site go?
+[7/9/2020 1:58:04 PM]PING :tmi.twitch.tv
+[7/9/2020 1:58:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:59:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 1:59:20 PM]@badge-info=;badges=;client-nonce=7dfef5918c32b8fe9b0214633827addc;color=;display-name=webguyjosh;emotes=;flags=;id=7cac6f09-a810-41e3-b24b-5da626000342;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328361837;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :smh, invoice him $500 for a late fee
+[7/9/2020 2:00:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:00:47 PM]@badge-info=;badges=;client-nonce=237f40ff081de100ce9aef3dba57ef83;color=;display-name=webguyjosh;emotes=;flags=;id=ede23a73-7c01-43e6-8e85-bd717bf51f71;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328448626;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :I feel ya, we should team up on a discord bot in Nodejs
+[7/9/2020 2:01:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:02:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:02:25 PM]PING :tmi.twitch.tv
+[7/9/2020 2:03:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:04:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:04:42 PM]@badge-info=;badges=;client-nonce=fb2a258df85ba9dcb70a9372e7a5675c;color=;display-name=webguyjosh;emotes=;flags=;id=ce26a2ac-0555-4764-9a38-55cdf63e2407;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328683087;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Love the james yeah
+[7/9/2020 2:04:45 PM]@badge-info=;badges=;client-nonce=ac08f8fb9b3ffe77ffab4a56504506cb;color=;display-name=webguyjosh;emotes=;flags=;id=40c3d9df-14b8-4044-b466-499478fe0811;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328685893;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :Jams*
+[7/9/2020 2:05:02 PM]@badge-info=;badges=;client-nonce=b88ac90f47f6a0c5e25250d907a012ff;color=;display-name=webguyjosh;emotes=;flags=;id=6786bc64-4adf-4885-8d1d-555366772a7d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594328703450;turbo=0;user-id=551089847;user-type= :webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PRIVMSG #righteousriley_ :No idea aobut the bot, wanna work with some API's
+[7/9/2020 2:05:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:06:15 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:06:48 PM]PING :tmi.twitch.tv
+[7/9/2020 2:07:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:07:46 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=b477405662a0f2d2383307da4baa6bbe;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=ea2159c3-ae39-4082-aea1-5dc29b794f2d;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594328866908;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!Mulder
+[7/9/2020 2:07:50 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=625185f504d4326e517c4c539d944a7e;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=fc651f29-7429-4a81-8f0a-ec7a6b2ef8d1;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594328871300;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!mulder
+[7/9/2020 2:08:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:08:25 PM]:webguyjosh!webguyjosh@webguyjosh.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 2:09:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:09:34 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=2be12efc115c48a2ad48ac83b33a7eb8;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=96d1bef1-9afe-485d-a948-cf7f1876f812;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594328975686;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!mulder
+[7/9/2020 2:10:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:10:48 PM]PING :tmi.twitch.tv
+[7/9/2020 2:11:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:12:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:12:50 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 2:13:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:14:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:14:54 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 2:15:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:15:16 PM]PING :tmi.twitch.tv
+[7/9/2020 2:15:18 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=89b42df0324442cc4d146e161aee5b0c;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=392aa7ad-5341-4d35-9307-9dfbd87449f8;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329319889;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!mulder
+[7/9/2020 2:15:37 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=4b8ef8d83cd782a5957a93b44886bb7e;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=59d0f9e3-99d9-464f-9e54-26c1060161fa;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329338064;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!mulder
+[7/9/2020 2:15:37 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=952c1471-c09e-4aca-b336-9edfeccb7c36;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329338247;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:15:50 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=573ded9eaf7ce4f38a6599326a948278;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=8d0c0a19-09a1-43cb-89e8-cf1d9bf8b72d;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329351706;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!mulder
+[7/9/2020 2:15:50 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=7f98e915-de96-4c7f-b7fd-40941d513512;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329351865;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:02 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=1f90fdc7bb3884f3d1ab3bce3f14d4aa;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=081fe1a0-25b6-4a32-a738-7830f72677c3;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329363716;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:02 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=998860a5-66f4-40b5-86d9-fc220a1abe3d;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329363891;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:07 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=7f75a69e-a4ec-44cd-a18f-53f373cf9f8f;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329368248;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :nerd
+[7/9/2020 2:16:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:16:27 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=f19f6ab8-9e45-4b5e-8f97-9488a91d2eab;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329388307;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:27 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=e0570442-0bb8-46db-82d7-12769ae6e949;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329388488;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:35 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=daa656a2-313a-48d9-8db1-c80527a8ced9;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329396823;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :hello !alien
+[7/9/2020 2:16:40 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=aa88cb88-054a-4602-b2f4-155cf2a6b6e9;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329401818;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:41 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=c56a3c8a-de17-4792-bfe6-5a3e324ea4eb;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329402000;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:48 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 2:16:48 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=458fd391f824503faf12279d517b9a38;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=b0190aaa-ea33-426b-ae2b-52fc2e0a1e5d;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329409499;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!laien
+[7/9/2020 2:16:51 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=e7448bd3-1447-422f-a925-922086148499;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329412071;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:51 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=ea164b1e-104d-45d7-9c5a-75b0764c8741;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329412285;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:51 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=3a7ce7c899f3e5865043cdbbc73edcda;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=6b3c4070-0bc9-4ea3-9ae5-5684028666a6;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329412327;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:53 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=857bd5ea-7429-49f8-b287-4f6658a30636;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329414309;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:53 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=3d4f283d-a1b6-4869-8ead-95215172c847;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329414826;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:55 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=2df4ed0e8ca95822ead76973c19bc8fe;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=2a8f2c2e-6b4f-4085-b9f5-9c9bc4c97bc2;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329416039;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:55 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=e4bac2d0-bf76-4783-83bb-3ddf130c2f37;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329416310;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:57 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=6ef116a0-b9fb-4809-b359-a8f2f0cb746c;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329418318;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:16:58 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=d1e1e633-3ca0-4068-9bfb-28584e6e28b7;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329419827;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:16:59 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=37fe442f-5b48-44b9-a02a-5f57482ce51a;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329420308;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:17:02 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=25e37895-9460-41c5-a5db-cecff33d3594;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329423336;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:02 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=cd660025-5e49-4c25-a9b4-56f4b2a92b8e;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329423536;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:17:06 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=74e463de-dfd0-4b98-ac09-229d207f5275;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329427865;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :make a cooldown
+[7/9/2020 2:17:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:17:19 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=bed97ff6-997b-48d6-bf49-f1311565b40f;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329440089;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:19 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=ff85471f-c268-43b6-a5e6-351e1d313d42;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329440284;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:17:23 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=2c71fdc58566ce0e23fb5373540878fa;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=0691e80f-9367-442e-aad6-bc9ed360de8c;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594329443974;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:23 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=7b693363-15ab-4c51-9cdf-6bfbdd224d8f;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329444160;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:17:23 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=e4cc14b6-d052-42a8-b9df-5566d964edcc;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329444346;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:25 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=5d122f20-371b-4e21-9d2c-130280596905;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329446159;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are an alien!
+[7/9/2020 2:17:26 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=5f156300-097f-4baf-82ba-ffa149cc75cc;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329447633;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:27 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=e1a62532-2d4a-4e2a-b66e-ec39cf103289;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329448188;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are an alien!
+[7/9/2020 2:17:31 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=ac43c03c-8eee-46ac-9fb4-cfe6a2243276;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329452354;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :pog
+[7/9/2020 2:17:44 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=a1b8cf22-f4ff-4d83-8ad3-64ce446076aa;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329465132;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:44 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=138ab164-f425-4718-b76b-3649e2aa5928;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329465301;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:17:47 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=5af29afe-9fad-4f72-93ba-29d1b328ada5;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329468877;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:48 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=a995af21-4ac2-4720-bb8e-53f6f4c77b5d;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329469049;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:17:51 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=f3350027-d50c-4552-8876-0d9eb393954c;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329472379;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:17:51 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=4c70e1f7-4dee-4576-81ca-f52879d72663;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329472546;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are an alien!
+[7/9/2020 2:17:54 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=2e4c8b25-9f0a-4e13-9d15-4f33529a4af0;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329475130;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :pog
+[7/9/2020 2:18:10 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=d50001e2-7a82-4193-9bca-779fd3151e5f;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329491174;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :hello there
+[7/9/2020 2:18:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:18:44 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=259c3854-4152-4bc2-8c34-f076cca46307;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329525177;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :just got home from work
+[7/9/2020 2:18:53 PM]:chapeape!chapeape@chapeape.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 2:19:08 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=da1dee7a-2fb7-476e-96cc-6b3a7233cd81;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329549452;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :mid August or so
+[7/9/2020 2:19:16 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:19:39 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=ced4fc88-6c1e-47d2-a8ae-37bd97e71678;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329580732;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :woooooo no DMCA
+[7/9/2020 2:19:53 PM]PING :tmi.twitch.tv
+[7/9/2020 2:20:04 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=c157d21e-79ff-4f7a-90a4-1e5f44be42b9;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329605770;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :do you want your boss?
+[7/9/2020 2:20:09 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=565a97cd-70c0-4055-9c91-13e89c05f53c;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329610546;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :vods*
+[7/9/2020 2:20:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:20:27 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=3901a1c0-99dc-454e-8ef4-3e0d567ddebb;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329628549;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :I don't think copyright matters then
+[7/9/2020 2:20:47 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=900af181-3252-4348-82c8-6703ab933eb4;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329648563;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :woot
+[7/9/2020 2:21:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:21:47 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=0bf0ca92-58cd-409d-830c-6cfdf2e6d713;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329708862;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :wats the game?
+[7/9/2020 2:22:17 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=88:23-30;flags=;id=9a64e870-14f6-440d-bfa1-b4b7c9730bdf;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329737889;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :that's why ur back end PogChamp
+[7/9/2020 2:22:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:22:35 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=6bd991f3-572e-49a1-a018-4823417fa72a;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329756405;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :Oh I c LuL
+[7/9/2020 2:23:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:23:35 PM]@badge-info=;badges=moderator/1,bits/1;color=#66C7FF;display-name=ChapeApe;emotes=;flags=;id=89f7fb7d-6539-4830-97bd-8bb4140b4d64;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594329816232;turbo=0;user-id=140104211;user-type=mod :chapeape!chapeape@chapeape.tmi.twitch.tv PRIVMSG #righteousriley_ :Davie504 bass lines?!
+[7/9/2020 2:24:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:24:28 PM]PING :tmi.twitch.tv
+[7/9/2020 2:24:56 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 2:25:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:26:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:27:07 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #righteousriley_
+:chapeape!chapeape@chapeape.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 2:27:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:28:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:28:29 PM]PING :tmi.twitch.tv
+[7/9/2020 2:29:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:30:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:31:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:32:17 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:33:13 PM]PING :tmi.twitch.tv
+[7/9/2020 2:33:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:34:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:35:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:36:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:37:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:37:30 PM]PING :tmi.twitch.tv
+[7/9/2020 2:37:54 PM]@badge-info=;badges=premium/1;client-nonce=cc83d84338e867990f1c5a1cee6adfa4;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=63ebfa4d-832a-4ffd-a752-64b890076ff2;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330675826;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :the coding wizard in action
+[7/9/2020 2:38:04 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=ed7a8e4ab9b0b6edbd81259eb9ddcac8;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=faf6a621-d8cd-48e3-90be-f71ffe56c889;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594330685241;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:38:04 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=9d3eec60-98c9-4448-b7dd-d4acdba87ebd;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594330685424;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:38:14 PM]@badge-info=;badges=premium/1;client-nonce=3744686e8a7d300e5b9bb41f8d87182b;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=16a0f26f-7665-4796-ac4b-920f2957dcc1;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330695434;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :pog
+[7/9/2020 2:38:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:38:25 PM]@badge-info=;badges=premium/1;client-nonce=8434b426767ef65aed2a7d6070b3926c;color=#FF4500;display-name=Shawnman107;emotes=;flags=0-9:S.5;id=572df940-cb61-4fa9-9e50-fb9feb6f30ab;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330706889;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :!strippers
+[7/9/2020 2:38:29 PM]@badge-info=;badges=premium/1;client-nonce=29aa895f2337f609c5a6d91e7ba3cd4c;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=964d1cb9-6cfb-43be-bafb-3ff7b0524bdb;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330710361;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :damn...
+[7/9/2020 2:38:50 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 2:39:16 PM]@badge-info=;badges=premium/1;client-nonce=a526f4e84311c202e63a1faf0e4809ae;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=7470e8a2-4714-4988-a878-2224cc91f2d9;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330757138;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :i just learned two new modules for python today that i'll have to use
+[7/9/2020 2:39:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:39:21 PM]@badge-info=;badges=premium/1;client-nonce=5e81787cad59a550dcb25032df576550;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=f1b08612-ceac-48f6-b347-9098eac3b01d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330761935;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :pandas and pickling
+[7/9/2020 2:39:57 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=e52ce467e2b26e6982ddc3bc1e953053;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=67d4baf3-2bc1-438f-8be7-4b8308fbf502;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594330798134;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!laiens
+[7/9/2020 2:39:59 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=ec99fc6a2cdd8961de0177dcdd7d3108;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=7f450889-d2e6-4c1b-bca6-be284cca5562;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594330800764;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 2:40:05 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=1538912770626c8fe71b3a702c2e7317;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=93dfb635-e07c-4389-aa32-492d5425f598;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594330806546;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!laien
+[7/9/2020 2:40:18 PM]@badge-info=;badges=premium/1;client-nonce=3f2dddebe503d0fb2b44de8ffda0a5f7;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=a898ffff-722a-4631-96a5-1056d14d7850;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330819251;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :!alien
+[7/9/2020 2:40:18 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=816eecb4-91c6-49ac-9ab6-6d64f96c3c15;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594330819432;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/9/2020 2:40:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:40:24 PM]@badge-info=;badges=premium/1;client-nonce=5966f888eae113b156fb571fb47fd270;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=b10978cc-ffa3-48c9-8b04-b122b0028f9b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330825283;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :lmao
+[7/9/2020 2:40:51 PM]@badge-info=;badges=premium/1;client-nonce=5820ee31825d435f868510b42e005b5f;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=0f051406-41ed-493d-a44b-6ef0198e398c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330852752;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :it works
+[7/9/2020 2:41:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:41:33 PM]PING :tmi.twitch.tv
+[7/9/2020 2:42:10 PM]@badge-info=;badges=premium/1;client-nonce=bfb3e9693ec578da020c2fa46f917938;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=1d1251c0-8187-4841-9c2d-1beeb00bf351;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330931145;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 2:42:10 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=6dda7369-1c7e-4707-8fb8-6e492fe53f8c;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594330931386;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :Shawnman107 has joined the party
+[7/9/2020 2:42:14 PM]@badge-info=;badges=premium/1;client-nonce=c66584815a903afc57749ea94cc7322b;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=4ec17998-37d1-40e3-9f2e-869f2c233670;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594330935040;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :POG
+[7/9/2020 2:42:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:43:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:43:44 PM]@badge-info=;badges=premium/1;client-nonce=759f9d89964afce6f4c115e533707911;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=0ce8402a-9ccd-44fe-9bcb-003132aa6919;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331025535;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :what'd this do tho?
+[7/9/2020 2:44:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:44:56 PM]@badge-info=;badges=premium/1;client-nonce=d54e0d53cab27359eae492b2304eeedd;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=3e1f01b0-5318-4715-a09d-579344b7b7d2;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331097031;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :so basically you recreated stream elements?
+[7/9/2020 2:45:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:45:21 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 2:45:23 PM]@badge-info=;badges=premium/1;client-nonce=a52266808772cc93e296a09b5f036346;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=d41b8856-847f-4f6a-8397-7cf127881439;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331124663;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :a wizard
+[7/9/2020 2:45:51 PM]@badge-info=;badges=premium/1;client-nonce=b1746e4b48273743fc62a9dcdfb28ad3;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=b7ddb2e1-a9fe-4c7b-9fc9-ed562021009c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331152242;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :hell yea
+[7/9/2020 2:46:03 PM]PING :tmi.twitch.tv
+[7/9/2020 2:46:09 PM]@badge-info=;badges=premium/1;client-nonce=55bcb1ffecbd4c6c0b72f1fafdd25235;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=55f60303-0d3c-4eb7-b33e-b9d667d5c78a;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331169907;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :oh yea, basically pandas are like a way to store data and then pickling is kinda like json in the sense of encoding data
+[7/9/2020 2:46:18 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:46:24 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 2:47:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:47:43 PM]@badge-info=;badges=premium/1;client-nonce=62b102c302a22c813922f69a4259a28e;color=#FF4500;display-name=Shawnman107;emotes=;flags=3-9:P.6;id=ddef46ed-a744-4c69-893f-7b8333663a79;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331264366;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :"a fucking gamer guy"
+[7/9/2020 2:48:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:48:36 PM]@badge-info=;badges=premium/1;client-nonce=98966640ce0a18953a0f254332909a71;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=da892689-8477-4a77-93f1-46b64fae4cc1;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331317860;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :top tier
+[7/9/2020 2:49:02 PM]@badge-info=;badges=premium/1;client-nonce=ee227e27cdc35d87daf24d2d245b4c9b;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=298829f4-1d9a-4b8d-a07a-63d9caef57ff;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331343610;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :gross
+[7/9/2020 2:49:04 PM]@badge-info=;badges=premium/1;client-nonce=374166818f0ca0e2737507aacba366ea;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=18e2fa26-8c3a-40eb-9421-fb3a6690e2ba;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331345442;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :python 3
+[7/9/2020 2:49:07 PM]@badge-info=;badges=premium/1;client-nonce=cdb3bb199c39fefe49309fea7f05295a;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=4fb746c9-fefa-4af3-a0cc-903cfaac8003;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331348844;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :best python
+[7/9/2020 2:49:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:50:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:50:23 PM]@badge-info=;badges=premium/1;client-nonce=42fa4eb861b4188874f3769458f1e8d6;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=9dc1be53-82f5-4c2b-9ad4-e8ee4e7487b3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331424002;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :oh yea this was the song you were talking about
+[7/9/2020 2:50:27 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 2:50:27 PM]@badge-info=;badges=premium/1;client-nonce=5058de27b5590c0942d8356cfc30a962;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=803528cc-e773-4010-b5fb-0a22801db5af;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331428548;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :!currentsong?
+[7/9/2020 2:50:42 PM]PING :tmi.twitch.tv
+[7/9/2020 2:50:53 PM]@badge-info=;badges=premium/1;client-nonce=ec129bf5d89d86fdaae3f7e43213990c;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=5effac11-a9a3-4fbf-9d64-c0d5b2b970b2;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331454603;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :lmao
+[7/9/2020 2:51:00 PM]@badge-info=;badges=premium/1;client-nonce=0e7aaedc03c363f1fdd397544a558d00;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=74b919b2-459b-4d35-9763-b142eeb1f11b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331461872;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ty
+[7/9/2020 2:51:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:51:34 PM]@badge-info=;badges=premium/1;client-nonce=315124503addd1c098eec8a39010619d;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=71027cc3-2b0b-4bb9-aa2f-e4e0bfe13a62;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331495436;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :big ups
+[7/9/2020 2:51:46 PM]@badge-info=;badges=premium/1;client-nonce=198212ae03164b8286a61170ea3660e5;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=4d794b93-7134-4ed5-a686-4b36e30ed251;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331507034;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :well do you want to start streaming again?
+[7/9/2020 2:52:07 PM]@badge-info=;badges=premium/1;client-nonce=8f7b9a13739bf59dcbf4893acbcc2bb2;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=24d6b816-05a8-4f01-9333-4a256f0d06a7;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331528376;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :facts
+[7/9/2020 2:52:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:52:36 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv JOIN #righteousriley_
+:prankcher!prankcher@prankcher.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 2:53:00 PM]@badge-info=;badges=premium/1;client-nonce=365e27c8afd365c980c35055933a4abc;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=d71b9322-24b8-46c3-a217-142397be3a79;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331581285;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :so are you trying to develop stream software for other smaller streamers and make a quick buck?
+[7/9/2020 2:53:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:53:30 PM]@badge-info=;badges=premium/1;color=;display-name=dcamby;emotes=;flags=;id=dac415bb-7012-483d-ae38-2eef4d7ab940;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331611879;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :I love you
+[7/9/2020 2:54:07 PM]@badge-info=;badges=premium/1;color=;display-name=dcamby;emotes=;flags=;id=24a4884d-ff19-46ce-8893-2513d570b123;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331648456;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :Hey man big fan
+[7/9/2020 2:54:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:55:01 PM]PING :tmi.twitch.tv
+[7/9/2020 2:55:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:56:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:57:02 PM]@badge-info=;badges=premium/1;client-nonce=265520e615e6ecb9c0772068c910e794;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=5cbf4ab1-f6a7-49fe-80b9-ed6f3ca65434;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331823509;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :yea debugging stuff like this is a pain
+[7/9/2020 2:57:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:57:32 PM]@badge-info=;badges=premium/1;client-nonce=51a3ada1c5c22dfd8b0c108b5ec4b38c;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=5069e577-0147-4d5d-8407-9452f963ceec;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331853103;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :you kinda learn stuff like that in cloud computting
+[7/9/2020 2:58:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:58:38 PM]@badge-info=;badges=premium/1;client-nonce=1da6a4e54ce03ed68f281f1f7016a70a;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=da694228-c600-4a5d-b80d-87dd616a7b5c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331919735;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :hype
+[7/9/2020 2:59:04 PM]@badge-info=;badges=premium/1;client-nonce=91658b608307f82b863bc826f31f625a;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=bbf15ab6-8056-4556-932e-442234d11b04;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331945230;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :oh yea definitely, especially because you love working with API's
+[7/9/2020 2:59:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 2:59:23 PM]PING :tmi.twitch.tv
+[7/9/2020 2:59:49 PM]@badge-info=;badges=premium/1;client-nonce=cb479bcd816b4bd2dc1e14e326fd6363;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=043b6a0e-d5e2-46ad-b420-06f67ca24beb;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594331990837;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :definitely
+[7/9/2020 3:00:19 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:00:20 PM]@badge-info=;badges=premium/1;client-nonce=48c9047e4da186f350cf6b44d2dab0a1;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=9afe0e3a-9155-4c51-b231-f8ed5b673423;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332021283;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :aight i mean if you want to try and do a crazy project for absolutely no reason you could try making abe's minecraft discord bot
+[7/9/2020 3:00:56 PM]@badge-info=;badges=premium/1;client-nonce=c79040415a2b047e2c9495e59b5fa9e1;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=456f3b9f-7b54-4758-a268-b66ecbea8f0e;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332057781;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :the dream
+[7/9/2020 3:01:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:01:52 PM]@badge-info=;badges=premium/1;client-nonce=2940cefb3e644032d7d4f2074afe8a75;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=186be65b-f53e-4619-b493-1daf0435ddf9;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332113179;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :the basic concept would be something along the lines of being able to type "!status" and it would say if the server is up or not
+[7/9/2020 3:02:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:03:05 PM]@badge-info=;badges=premium/1;client-nonce=8d207a12083ef359b5d7143fa94f6e1e;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=c1f3e63c-18e7-4265-a12e-ab9a0286862c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332186490;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :probably a try except block
+[7/9/2020 3:03:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:03:30 PM]PING :tmi.twitch.tv
+[7/9/2020 3:04:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:04:33 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=d58a9d856c1c72511c01998f0ae285b2;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=b44c41b2-f0a4-4cf7-81fb-c260c070fa1d;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594332274729;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:04:33 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=9a2ef1e0-304f-49e1-9a3a-5b861b46e66d;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594332274911;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 3:05:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:06:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:06:52 PM]@badge-info=;badges=premium/1;client-nonce=6c0f094877e25b28a36b13a301bd73eb;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=447aece9-c013-4640-b2f8-a0b2c2a7a82b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332413611;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :then i'd assume that line just doesn't get executed
+[7/9/2020 3:07:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:08:05 PM]PING :tmi.twitch.tv
+[7/9/2020 3:08:14 PM]@badge-info=;badges=premium/1;client-nonce=4d294eb5b4eb6d1236f1d1e739b20a82;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=ee75336a-ef32-4fcd-8da4-2145634cdff8;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332495094;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ok then debug with this: try sending a message with the csv_file
+[7/9/2020 3:08:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:08:42 PM]@badge-info=;badges=premium/1;client-nonce=a994635188223fe4642d2e59a9657f2f;color=;display-name=dcamby;emotes=;flags=;id=19bfb110-5d19-415e-9a1b-0fca501550ea;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332523753;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :I have no idea what youre doing but I love it.
+[7/9/2020 3:08:57 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=f4696546aef78dc109db4c14402c9031;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=fd568378-75b4-40a8-b161-38649fcf1d58;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594332538693;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:08:57 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=b04d666b-0037-4363-ba13-c1b4696f44e6;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594332538865;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 3:09:06 PM]@badge-info=;badges=premium/1;client-nonce=7ac277a6e31ed8a979a4f72f8846cfd7;color=;display-name=dcamby;emotes=;flags=;id=40c07494-9983-41fd-83f5-ca712a73cf46;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332547512;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :oh hell yeah
+[7/9/2020 3:09:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:10:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:10:26 PM]@badge-info=;badges=premium/1;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=10f5360d-113d-4cee-befb-f0e46d3220b1;mod=0;msg-id=highlighted-message;room-id=73899023;subscriber=0;tmi-sent-ts=1594332627452;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :maybe print out the csv_file
+[7/9/2020 3:10:41 PM]:commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #righteousriley_
+:dcamby!dcamby@dcamby.tmi.twitch.tv JOIN #righteousriley_
+:needhymn!needhymn@needhymn.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 3:10:46 PM]@badge-info=;badges=premium/1;color=;display-name=lordyfarquads;emotes=;flags=;id=ac330b4e-0f2b-458e-8e85-a75964ff23be;login=lordyfarquads;mod=0;msg-id=sub;msg-param-cumulative-months=1;msg-param-months=0;msg-param-should-share-streak=0;msg-param-sub-plan-name=Channel\sSubscription\s(righteosriley)\s4.99\sSub;msg-param-sub-plan=Prime;room-id=73899023;subscriber=1;system-msg=lordyfarquads\ssubscribed\swith\sTwitch\sPrime.;tmi-sent-ts=1594332647515;user-id=200428902;user-type= :tmi.twitch.tv USERNOTICE #righteousriley_
+[7/9/2020 3:11:00 PM]@badge-info=;badges=premium/1;client-nonce=0075673afc0019b81dc26edb686fa7d2;color=;display-name=dcamby;emotes=;flags=;id=5e1912d0-857f-4df9-894f-5cec899fad93;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332661754;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :MITCH!!!!!
+[7/9/2020 3:11:06 PM]@badge-info=;badges=premium/1;client-nonce=948fd9452be914848b7a6de2f10dd075;color=#74B222;display-name=dewsauciiin;emotes=;flags=;id=e21ce2dc-8b9f-4b96-89d8-6b053a102a79;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332667920;turbo=0;user-id=437955163;user-type= :dewsauciiin!dewsauciiin@dewsauciiin.tmi.twitch.tv PRIVMSG #righteousriley_ :THIS IS SICK
+[7/9/2020 3:11:08 PM]@badge-info=subscriber/1;badges=subscriber/0,premium/1;client-nonce=893450ac2a4b8f3122b640526a2d34f8;color=;display-name=lordyfarquads;emotes=;flags=;id=988272ad-72f9-4f0c-8c79-9a346daa699f;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594332669289;turbo=0;user-id=200428902;user-type= :lordyfarquads!lordyfarquads@lordyfarquads.tmi.twitch.tv PRIVMSG #righteousriley_ :its mitch btw whats up man
+[7/9/2020 3:11:09 PM]@badge-info=;badges=premium/1;client-nonce=9f97d9e0a2af5a99c514e0fcef6fcef4;color=;display-name=dcamby;emotes=;flags=;id=119bd69a-ff59-4f7a-8c8b-a5508f58e1c8;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332670244;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :with the biig boy sub
+[7/9/2020 3:11:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:12:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:12:30 PM]PING :tmi.twitch.tv
+[7/9/2020 3:12:34 PM]@badge-info=;badges=premium/1;client-nonce=7e8827cf21f0ad779e4cc176fec2f854;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=1cb0ad90-d79a-4856-a5f6-f7f5fc6331d4;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332755701;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :no i mean print out the csv_file in the "send_message"
+[7/9/2020 3:12:48 PM]:lordyfarquads!lordyfarquads@lordyfarquads.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 3:13:18 PM]@badge-info=;badges=premium/1;client-nonce=685a37207b538e4016ea406c12e3f157;color=;display-name=dcamby;emotes=555555584:61-62,64-65;flags=;id=2fcabe0a-6d93-4175-9c51-f5249f5f356a;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332799420;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :keep working brother! I'm gonna lose some elo but you got it <3 <3
+[7/9/2020 3:13:20 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:13:46 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=42e2aa9c0e59c1dc5e3ed6d4ecf07b6f;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=b6940c7c-e1db-4243-a5a2-5eecdce0ef80;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594332827821;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:13:47 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=684cf7f3-6e81-4a6c-8933-81b861eb545c;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594332828012;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 3:13:49 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=152174fb-1ae9-44a0-bb8e-64685d7af921;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594332830016;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :<closed file 'join_users.csv', mode 'w' at 0x0276E023>
+[7/9/2020 3:14:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:14:25 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=02663ed1bf2979170efeb5d0d2c7ef90;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=bcee8f88-7827-48d5-aaa8-debbb1d3a7ab;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594332866367;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:14:25 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=210c6744-e247-4824-ba73-dd0457977347;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594332866608;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 3:14:56 PM]:dewsauciiin!dewsauciiin@dewsauciiin.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 3:15:11 PM]@badge-info=;badges=premium/1;client-nonce=e62c1a885357b1e094fe502a758b3304;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=34aac4e8-bac0-4a7f-8fc9-59b7e212c69e;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594332912114;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :gdi i dc'd what'd i miss?
+[7/9/2020 3:15:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:16:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:17:06 PM]:dcamby!dcamby@dcamby.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 3:17:14 PM]PING :tmi.twitch.tv
+[7/9/2020 3:17:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:18:00 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=57bae21f9ae2e4ff7fbb8f8a4cacf7ec;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=55739fbc-574b-4f43-a57e-cbf5c2ab3ffa;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594333081309;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:18:00 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=6a222b89-40ee-4fa2-abaa-c05c352b4c39;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594333081501;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 3:18:20 PM]@badge-info=;badges=premium/1;client-nonce=578ca38a7dbd1c4180111ef07238c446;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=bbb38c1c-90c7-4317-9f41-e26d35fce766;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333101546;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :you imported csv right?
+[7/9/2020 3:18:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:18:36 PM]@badge-info=;badges=premium/1;client-nonce=5eed1ea5eb1caec5d674c91022e16cbe;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=3574f34a-4e16-4aec-8f84-cd7d8bf060a1;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333117409;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :nvm i saw it
+[7/9/2020 3:19:13 PM]:lordyfarquads!lordyfarquads@lordyfarquads.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 3:19:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:20:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:21:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:21:32 PM]PING :tmi.twitch.tv
+[7/9/2020 3:22:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:23:19 PM]@badge-info=;badges=premium/1;client-nonce=fd9f81b6a5de77a0adea6a33bedb179c;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=79c236ba-ed09-4b29-8cc6-069b7137b6d8;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333400341;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ohhhh
+[7/9/2020 3:23:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:24:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:25:09 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=0ad0a1b19c8029ff7bd88bc123dd9ba2;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=e708f62c-7468-4530-b950-d625f75ec54c;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594333510695;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:25:09 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=88a6f475-c661-4bd8-a2e2-0a8342d84533;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594333510871;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 3:25:11 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=2e492844-008f-4990-8570-a408ab2189e3;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594333512876;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ 0
+[7/9/2020 3:25:16 PM]@badge-info=;badges=premium/1;client-nonce=bc4e07d82bcdc0a179a432b44d687bd1;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=90eb8156-f9ac-41ab-b032-f0ee7a063563;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333517079;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :POG
+[7/9/2020 3:25:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:25:47 PM]PING :tmi.twitch.tv
+[7/9/2020 3:26:07 PM]@badge-info=;badges=premium/1;client-nonce=2f45ec1970713264ff0721ac03899088;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=c1075897-2d46-4980-b7c8-67ccfe5dacf3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333568878;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :append mode?
+[7/9/2020 3:26:21 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:26:55 PM]@badge-info=;badges=premium/1;client-nonce=6de50735f9548ad3626ca1d967473263;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=e3ff7cbe-8f46-4f92-8d11-c0a6fd5e4418;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333616119;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :what if
+[7/9/2020 3:27:04 PM]@badge-info=;badges=premium/1;client-nonce=2206e597669e9ec99a9d5681fb3e206e;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=212b8502-058d-40d2-997a-791e256b5f14;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333624950;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :you just never use "w" and only use append mode
+[7/9/2020 3:27:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:28:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:28:28 PM]@badge-info=;badges=premium/1;client-nonce=b0c899c0c2f800435ed02b516d047ad0;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=f69b8d78-dba7-4dd4-ad88-c03dbef41b29;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333709409;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :freelo
+[7/9/2020 3:28:43 PM]:sweethali!sweethali@sweethali.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 3:29:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:29:37 PM]@badge-info=;badges=premium/1;client-nonce=9ef73599bad22fce31d7b95cdfc2b983;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=14016b40-a6b8-4237-a3f0-35a6e3e971aa;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333778526;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :just rename the file then
+[7/9/2020 3:30:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:30:36 PM]@badge-info=;badges=premium/1;client-nonce=bac70437f8c793a80b3cdaaf73e596f2;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=446055af-7c6f-438c-8a03-01fb45b6f1af;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594333837769;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :you want to make the file in append mode not read mode
+[7/9/2020 3:30:41 PM]PING :tmi.twitch.tv
+[7/9/2020 3:30:43 PM]:sweethali!sweethali@sweethali.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 3:31:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:32:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:32:41 PM]:sweethali!sweethali@sweethali.tmi.twitch.tv JOIN #righteousriley_
+:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 3:33:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:34:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:35:16 PM]@badge-info=;badges=premium/1;client-nonce=dbde55ae8128056c369f05e034e4387b;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=553d75b7-a575-4648-bcf8-b95282bb0873;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334117055;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :yea
+[7/9/2020 3:35:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:35:25 PM]PING :tmi.twitch.tv
+[7/9/2020 3:35:32 PM]@badge-info=;badges=premium/1;client-nonce=cda787acae14ff4719fafd02187d9de3;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=f91651d9-f420-4604-acce-267b4d3d5ff9;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334133011;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :assuming row[0] is the first word and not the whole line
+[7/9/2020 3:36:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:36:57 PM]:thatguy7!thatguy7@thatguy7.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 3:37:11 PM]@badge-info=;badges=premium/1;client-nonce=af70c43ad4047c192c9984e2ff0499a4;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=74fdc55d-eb9d-4699-a262-c9c9ecc4a14a;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334232710;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :if they exist do nothing
+[7/9/2020 3:37:21 PM]@badge-info=;badges=premium/1;client-nonce=ba338766a57c89b6be9b6db8fc9c0025;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=4ea40b68-9cdf-47cd-b975-1107cd3aaeab;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334242085;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :if they don't exist then append
+[7/9/2020 3:37:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:37:23 PM]@badge-info=;badges=premium/1;client-nonce=405cc5574420ea6b06f444a6b20b5381;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=93f07fc7-8676-488e-9660-ee019ddb8f56;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334244638;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ohhh
+[7/9/2020 3:38:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:38:34 PM]@badge-info=;badges=premium/1;client-nonce=5b3905d922188601942a8a4c617b2d06;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=c1eb1cb4-171a-4a1d-8eee-9d574335384e;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334315735;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :yea i think so
+[7/9/2020 3:39:07 PM]@badge-info=;badges=premium/1;client-nonce=6a9810aa9f5b0e844181a47f226c8f34;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=c6034541-9f71-40db-9b0d-c4dbe0a682d5;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334348644;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :the only thing im worried about now is that you might need an open in the is_user_present function
+[7/9/2020 3:39:22 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:39:50 PM]@badge-info=;badges=premium/1;client-nonce=1f415cf92cdcefc6ba6f9185427ecfa9;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=3eb7ab52-708f-4994-ad52-1902634c3e45;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334391966;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :it was already open in the test script
+[7/9/2020 3:39:59 PM]PING :tmi.twitch.tv
+[7/9/2020 3:40:09 PM]@badge-info=;badges=premium/1;client-nonce=7520cee58d62c90e7584e4ce93f9dbdb;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=bdcdad5e-82a9-4da3-b4c3-88a020af7b0d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334410631;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :so do the test script with it closed to test
+[7/9/2020 3:40:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:40:49 PM]:rebootl!rebootl@rebootl.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 3:41:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:41:45 PM]@badge-info=;badges=premium/1;client-nonce=c11cf4e6eaacd2e059b71d1e64fed67d;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=b4b16f40-d22d-49dc-bb55-a4a0377fa3db;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334506542;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :the output is kinda blocked by your cam
+[7/9/2020 3:42:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:42:33 PM]@badge-info=;badges=premium/1;client-nonce=276e032c0d4f33f660becdfb1379b263;color=#74B222;display-name=dewsauciiin;emote-only=1;emotes=88:0-7;flags=;id=415285db-95be-4ab6-9b73-3511bd3de66f;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334554602;turbo=0;user-id=437955163;user-type= :dewsauciiin!dewsauciiin@dewsauciiin.tmi.twitch.tv PRIVMSG #righteousriley_ :PogChamp
+[7/9/2020 3:42:55 PM]@badge-info=;badges=premium/1;color=#74B222;display-name=dewsauciiin;emote-only=1;emotes=88:0-7,9-16,18-25,27-34;flags=;id=c5b121db-72c4-472e-a3ca-c28794cea2f0;mod=0;msg-id=highlighted-message;room-id=73899023;subscriber=0;tmi-sent-ts=1594334576169;turbo=0;user-id=437955163;user-type= :dewsauciiin!dewsauciiin@dewsauciiin.tmi.twitch.tv PRIVMSG #righteousriley_ :PogChamp PogChamp PogChamp PogChamp
+[7/9/2020 3:43:21 PM]@badge-info=;badges=premium/1;client-nonce=e0f78537f979ebb8d42a6fc6cd1b0bbc;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=d2ab211c-04f6-49bf-ae09-cdad8b4cb7e0;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594334602921;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ok now close it
+[7/9/2020 3:43:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:44:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:44:52 PM]PING :tmi.twitch.tv
+[7/9/2020 3:45:03 PM]:aten!aten@aten.tmi.twitch.tv JOIN #righteousriley_
+:rebootl!rebootl@rebootl.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 3:45:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:46:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:47:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:48:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:49:10 PM]PING :tmi.twitch.tv
+[7/9/2020 3:49:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:50:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:51:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:52:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:53:14 PM]PING :tmi.twitch.tv
+[7/9/2020 3:53:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:53:38 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=9d73236705f00811eec22f8563457249;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=e8475a53-0162-4129-90ef-b498c1efd258;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335219296;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:53:48 PM]@badge-info=;badges=premium/1;client-nonce=d7f1784b98ac402a88de01c3566222e6;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=c7eed31f-9bb4-4236-993b-bb74c207472b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335229273;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :rip
+[7/9/2020 3:54:23 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:55:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:55:27 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=7775137beb9d2408148bf74f6a74eced;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=e9e0d938-87f7-428c-82ff-e8be855c0b44;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335328044;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:56:02 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=2384e69ce292f229bd9bef2ae157c50b;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=7919373a-65d1-46b8-8eb7-b1946160eed0;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335363592;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:56:06 PM]@badge-info=;badges=premium/1;client-nonce=13e205cd5c69069d0d0344e9a6ce5d82;color=#FF4500;display-name=Shawnman107;emotes=;flags=0-3:A.0/P.6;id=b2bc7122-4e23-4954-9719-83aed4e05992;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335367838;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :fuck
+[7/9/2020 3:56:19 PM]@badge-info=;badges=premium/1;client-nonce=7f7e4ad5f35b1b24f2159755c45ccffd;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=222da51f-365d-4688-88ac-de11ffcf2e0c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335380124;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :this is why git is important
+[7/9/2020 3:56:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:56:40 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=a16432deff153aa9914e2e900d37b52e;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=862dfb51-4804-4faa-9ae7-bea2b4c5762c;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335401855;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:57:12 PM]@badge-info=;badges=premium/1;client-nonce=310d722206ac12acde51850a8e54a8b5;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=e3c6e50e-11f4-447c-8599-035b641136cf;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335433555;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ok let's think
+[7/9/2020 3:57:14 PM]@badge-info=;badges=premium/1;client-nonce=cbe9184d5a7c375a39195780cea0f0ce;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=a90bc83d-91c1-4822-937c-1eb8a71e48a5;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335436000;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :nah we got this
+[7/9/2020 3:57:18 PM]@badge-info=;badges=premium/1;client-nonce=8f1db8ff156a86f6eaa1690a3af65ae4;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=ad622cca-7a2a-4697-aac9-8985dc8798b3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335439844;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :what happens first
+[7/9/2020 3:57:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:57:55 PM]PING :tmi.twitch.tv
+[7/9/2020 3:58:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:59:21 PM]@badge-info=;badges=premium/1;client-nonce=124f2a62bed5f30e9e0904dbf69cbedd;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=1db73603-f06f-4272-a3f5-93eb05728fd6;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335562856;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 3:59:22 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=79795296-f15d-462c-9913-b0554ff6d0b5;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594335563033;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :Shawnman107 has joined The Cool Kids Club
+[7/9/2020 3:59:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 3:59:25 PM]@badge-info=;badges=premium/1;client-nonce=97f68d578b1231074c7254a9f29244c2;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=0f2fe040-cd65-492d-8ba2-513a291e62d5;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335566252;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :worked
+[7/9/2020 4:00:20 PM]@badge-info=;badges=premium/1;client-nonce=623a1e9a0f32984dbae83b62c222fd89;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=bab50c43-4271-4fc9-b174-532770f835f0;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335621374;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :yea we don't know where this file is being made?
+[7/9/2020 4:00:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:01:07 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=257f98120b40f1595a283f3dffc83e63;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=1deb019e-7d44-4207-992a-a657e76f70eb;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335668478;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:01:07 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=6cdd87b4-e147-42df-9d36-546c7d020d17;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594335668690;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 4:01:12 PM]@badge-info=;badges=vip/1;client-nonce=74c6ee18b8f0c0714dc1785c65d0ad0c;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=1c5c8a0b-c407-47ad-8f0f-6591355e3b3c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335673725;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:01:12 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=baa0e9fc-2ccd-4caf-b54e-4dcd120ef1cd;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594335673905;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :ThatGuy7 has joined The Cool Kids Club
+[7/9/2020 4:01:17 PM]@badge-info=;badges=vip/1;client-nonce=b890c89e3d9b207174cd51dba2f1f457;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=0e18b938-571c-4076-b921-1df282eaf1f8;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335678144;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :w00t!
+[7/9/2020 4:01:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:01:55 PM]@badge-info=;badges=premium/1;client-nonce=9dd7536de24d2a24c72d730582598a4d;color=#74B222;display-name=dewsauciiin;emotes=;flags=;id=c5d652c0-2ec5-4148-a8c5-c7583d82e9ea;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335716752;turbo=0;user-id=437955163;user-type= :dewsauciiin!dewsauciiin@dewsauciiin.tmi.twitch.tv PRIVMSG #righteousriley_ :HELL YEA
+[7/9/2020 4:02:01 PM]@badge-info=;badges=;client-nonce=e85beb84669c967858d73e6d53cf2eeb;color=#4813B0;display-name=Spacey1k;emotes=;flags=;id=2fee0666-e85b-4dfb-acab-c365ce16ddfb;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335723002;turbo=0;user-id=237242198;user-type= :spacey1k!spacey1k@spacey1k.tmi.twitch.tv PRIVMSG #righteousriley_ :HELL YEA
+[7/9/2020 4:02:18 PM]@badge-info=;badges=;client-nonce=e1303338aa4a1c31e854d1cda3e51132;color=#4813B0;display-name=Spacey1k;emotes=;flags=;id=07f53aa1-edc6-4e9d-8f44-b62408916104;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335739780;turbo=0;user-id=237242198;user-type= :spacey1k!spacey1k@spacey1k.tmi.twitch.tv PRIVMSG #righteousriley_ :DEWSAUCIIN
+[7/9/2020 4:02:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:02:45 PM]:spacey1k!spacey1k@spacey1k.tmi.twitch.tv JOIN #righteousriley_
+:dcamby!dcamby@dcamby.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 4:02:46 PM]PING :tmi.twitch.tv
+[7/9/2020 4:03:16 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=109e8a941d4868aaebb79774ce987d31;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=fdb4ca90-18f3-4924-8c87-cf3417c80981;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335797276;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:03:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:03:41 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=7f1cb72f77496400a0e3cd8b6b216f64;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=a615fffb-ca49-43e9-bb8d-c71b5c033331;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594335822271;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:04:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:04:26 PM]@badge-info=;badges=vip/1;client-nonce=7f34bf8b0846a02b0f67a52830eee110;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=6294a0b2-0bce-4040-8792-b0a2477e043a;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335867028;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :you can supply a full file path to open()
+[7/9/2020 4:04:43 PM]@badge-info=;badges=vip/1;client-nonce=faa913b73182108975ab9ae987353065;color=#5F9EA0;display-name=ThatGuy7;emotes=555555589:35-36;flags=;id=185e5026-bdb2-4b51-ad2c-a4069a76f276;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335884701;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :that way you know where the csv is ;)
+[7/9/2020 4:04:53 PM]:jautrey!jautrey@jautrey.tmi.twitch.tv JOIN #righteousriley_
+:dcamby!dcamby@dcamby.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:05:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:06:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:06:36 PM]@badge-info=;badges=vip/1;client-nonce=7ae9b44ae1b4567168bc6c7db189b063;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=77bb0afd-6763-4fa2-9644-54cb3dbfa54f;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594335997217;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :just gotta go into a meeting
+[7/9/2020 4:06:48 PM]:bhopzyval!bhopzyval@bhopzyval.tmi.twitch.tv JOIN #righteousriley_
+:spacey1k!spacey1k@spacey1k.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:07:14 PM]PING :tmi.twitch.tv
+[7/9/2020 4:07:24 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:07:35 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=085e0cba516fba1ab1ff2f89ef236656;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=c9747092-7013-4217-b239-57645a493aeb;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594336056833;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:08:01 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=587e278cd0ecf2b94b9c8c105d75ee91;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=2f7751c6-b846-4ef6-9df8-e5a695c3b4fc;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594336082703;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:08:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:08:43 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=8889d7ecd7285125711fa3a1a9fafe08;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=518bdb43-090c-483f-9532-99de087eb333;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594336124044;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:08:43 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=d8f0c5c5-9351-4219-9516-b09373aa6f25;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594336124219;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/9/2020 4:08:49 PM]:bhopzyval!bhopzyval@bhopzyval.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:09:14 PM]@badge-info=;badges=premium/1;client-nonce=6733728cf107c0fd4de5ad265da0afae;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=56635fe8-c266-4047-8d54-069c9a21bbb3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336155480;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/9/2020 4:09:14 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=6e83e41e-5f8d-4f52-9306-226f2128ae98;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594336155659;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :Shawnman107 has joined The Cool Kids Club
+[7/9/2020 4:09:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:10:09 PM]@badge-info=;badges=vip/1;client-nonce=91f128c59c33839a5d2ed95adf618a1e;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=99cbe2c7-dff4-479c-96f3-e60b72881619;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336210023;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :idle rpg
+[7/9/2020 4:10:17 PM]@badge-info=;badges=premium/1;client-nonce=b64ee26860d5f090e616e84828055399;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=d5c7c324-2714-493b-9b5d-bb229a9b8187;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336218353;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :easy dub
+[7/9/2020 4:10:20 PM]@badge-info=;badges=vip/1;client-nonce=2a78b60b62fdf77fbc3f8fc11801d130;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=807d6cf6-6fa0-4a8f-aca9-3dc764896992;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336221475;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :that's what i was thinking
+[7/9/2020 4:10:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:10:54 PM]@badge-info=;badges=vip/1;client-nonce=3934100206bef788641a1df205ec1ad9;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=1da23b38-07fc-438b-a0b8-40e18ebf97d1;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336255030;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :so the join just joined you to the game....now you need things like !train <skillname>
+[7/9/2020 4:11:17 PM]PING :tmi.twitch.tv
+[7/9/2020 4:11:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:11:31 PM]@badge-info=;badges=vip/1;client-nonce=3791603483737d1ebddb2f2b05afe110;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=5b8746cf-05d9-484a-b845-f01793884039;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336292688;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :an idle rpg is a game that just ticks over in the background
+[7/9/2020 4:11:40 PM]@badge-info=;badges=vip/1;client-nonce=0c793fb5772def2cae4fad34c9836fba;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=7351342e-1e5c-4d99-b961-3c7fd5e37377;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336301289;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :and so this would be one that they can play in the twitch chat
+[7/9/2020 4:11:45 PM]@badge-info=;badges=vip/1;client-nonce=29fdcf9e70b37255eb89e8ded2b6ce18;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=0-6:P.5;id=af98e613-fff6-43fe-9025-42701e28c62c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336306046;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :oh shit qwork meeting bbs
+[7/9/2020 4:12:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:12:57 PM]@badge-info=;badges=premium/1;client-nonce=5ce0079a64b0f396531e93aed6fb32ee;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=7d2c02db-030e-4d38-a47d-54dc26635437;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336378466;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :ah okay
+[7/9/2020 4:13:14 PM]@badge-info=;badges=premium/1;client-nonce=48e25d8d9e3bcab6f48b03bcf7f9bb12;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=b4b37e20-828b-4952-8e3c-5eabcb503630;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336395252;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :twitch chat plays qwop
+[7/9/2020 4:13:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:13:50 PM]@badge-info=;badges=premium/1;client-nonce=80d48cfcf6e63c54fdd862ba8922c61d;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=38ef70d8-e92b-40c4-983f-fd1219f6dad9;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594336431433;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :im in the discord btw
+[7/9/2020 4:14:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:15:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:15:50 PM]PING :tmi.twitch.tv
+[7/9/2020 4:16:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:17:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:18:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:19:25 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:19:29 PM]:prankcher!prankcher@prankcher.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:20:22 PM]PING :tmi.twitch.tv
+[7/9/2020 4:20:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:21:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:21:30 PM]:prankcher!prankcher@prankcher.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 4:22:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:23:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:24:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:24:48 PM]:jautrey!jautrey@jautrey.tmi.twitch.tv PART #righteousriley_
+:dewsauciiin!dewsauciiin@dewsauciiin.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:25:22 PM]PING :tmi.twitch.tv
+[7/9/2020 4:25:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:26:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:27:01 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:27:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:28:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:29:17 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 4:29:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:29:47 PM]@badge-info=;badges=vip/1;client-nonce=b4e653494226f565aeaa634181893fb3;color=#5F9EA0;display-name=ThatGuy7;emotes=555555558:20-21;flags=;id=52ca59ce-1b29-4ce3-993b-9fa9b51f1d22;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594337388611;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :my vr is broken atm :(
+[7/9/2020 4:30:04 PM]PING :tmi.twitch.tv
+[7/9/2020 4:30:07 PM]@badge-info=;badges=vip/1;client-nonce=487094c52ae479288275109d8be4b967;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=d1c2214e-1850-4230-b6ea-5195f3d43d6b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594337408301;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :a steam update made it stop working
+[7/9/2020 4:30:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:31:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:32:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:32:42 PM]:streamlabs!streamlabs@streamlabs.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 4:33:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:34:26 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:34:40 PM]:streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 4:35:00 PM]PING :tmi.twitch.tv
+[7/9/2020 4:35:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:36:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:37:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:38:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:39:05 PM]PING :tmi.twitch.tv
+[7/9/2020 4:39:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:40:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:41:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:42:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:43:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:43:30 PM]PING :tmi.twitch.tv
+[7/9/2020 4:44:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:45:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:45:32 PM]@badge-info=;badges=;client-nonce=7e63453d86a74ca8ce16eef8e1d79bb0;color=;display-name=Imbored191;emotes=;flags=;id=059851b5-0fb5-42e1-815f-8de260e73439;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594338333181;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :why'd u name him oreo
+[7/9/2020 4:46:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:47:16 PM]:imbored191!imbored191@imbored191.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 4:47:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:48:10 PM]PING :tmi.twitch.tv
+[7/9/2020 4:48:27 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:49:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:50:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:50:50 PM]@badge-info=;badges=vip/1;client-nonce=a0e16045faaa7b79344c8780b7368e59;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=28cba311-cf09-4bd3-a15f-07434e33d8e8;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594338651295;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :just chatting
+[7/9/2020 4:51:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:51:37 PM]@badge-info=;badges=vip/1;client-nonce=dc56b45856e082eb285ca89eeebc5484;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=87aec69e-fedb-48d8-9415-91c92c8915f0;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594338698309;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :got another meeting !lurk
+[7/9/2020 4:52:21 PM]PING :tmi.twitch.tv
+[7/9/2020 4:52:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:53:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:54:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:55:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:56:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:56:33 PM]PING :tmi.twitch.tv
+[7/9/2020 4:57:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:58:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 4:59:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:00:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:01:25 PM]PING :tmi.twitch.tv
+[7/9/2020 5:01:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:02:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:03:28 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:04:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:05:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:06:00 PM]PING :tmi.twitch.tv
+[7/9/2020 5:06:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:07:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:08:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:09:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:10:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:10:48 PM]PING :tmi.twitch.tv
+[7/9/2020 5:11:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:12:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:13:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:14:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:14:49 PM]PING :tmi.twitch.tv
+[7/9/2020 5:15:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:16:29 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:17:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:18:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:18:50 PM]PING :tmi.twitch.tv
+[7/9/2020 5:19:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:20:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:21:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:22:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:23:10 PM]PING :tmi.twitch.tv
+[7/9/2020 5:23:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:24:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:25:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:25:32 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:26:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:27:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:27:44 PM]PING :tmi.twitch.tv
+[7/9/2020 5:27:45 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 5:28:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:29:30 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:29:52 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:30:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:31:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:31:57 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:32:22 PM]PING :tmi.twitch.tv
+[7/9/2020 5:32:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:33:04 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+:prankcher!prankcher@prankcher.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:33:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:34:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:35:16 PM]:prankcher!prankcher@prankcher.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 5:35:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:36:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:36:52 PM]PING :tmi.twitch.tv
+[7/9/2020 5:37:11 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:37:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:38:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:39:18 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 5:39:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:40:11 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=912504b31887bc28e9ed480bc36e4539;color=#FF0000;display-name=Aussie_Madam;emotes=489:28-29/490:68-69;flags=;id=4c0715c0-39b3-4525-bd57-f6e0815cecfe;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594341612166;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :NAWWWWW ur all grown up now :( where is that sweet little face gone :P
+[7/9/2020 5:40:26 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=bf2016e25a5250f2c37fbfa3d4eb41cf;color=#FF0000;display-name=Aussie_Madam;emotes=490:18-19;flags=;id=323ca455-6539-4699-a48f-f99882987bc3;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594341627407;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :ur aa big boy NOW :P
+[7/9/2020 5:40:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:41:21 PM]PING :tmi.twitch.tv
+[7/9/2020 5:41:30 PM]:aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 5:41:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:41:52 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=cc6c04167c1d5eadd3fe166077967762;color=#FF0000;display-name=Aussie_Madam;emotes=499:33-34;flags=;id=c37bbe48-9426-469e-a3c5-5f21c573f96e;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594341713532;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :IKR ...even ur voice has changed :)
+[7/9/2020 5:42:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:42:36 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=04557ef39fb8ee5ece9c01c176d72fc3;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=38-46:A.6/P.6;id=8db4ca85-0308-42aa-aa09-83ef24feb098;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594341758013;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :ive been good ....not much cosof this shit arse virus ....
+[7/9/2020 5:43:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:43:35 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:44:31 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:45:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:45:42 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 5:45:57 PM]PING :tmi.twitch.tv
+[7/9/2020 5:46:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:46:39 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=cdf2537463247400e8e29069e8947b92;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=119-128:A.5/P.6;id=05b7d1fa-4b6f-48e5-a3f4-22208ff1c284;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342000925;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :yeah well we went back to normal withdistancing put in place still but now our state has some big hot spots cos of the dick heads not doing the right thing and well we had black lives matter rallys and such
+[7/9/2020 5:47:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:48:05 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=8c017340cfd137ea1cc233a99ac7e33e;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=7fcd2ed4-db59-40db-a211-f1f13124dc0c;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342086076;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :so now victorians can not go in to other states if thay have travelled to those hot spots in the last few weeks ....its pretty bad down in the big city now
+[7/9/2020 5:48:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:48:54 PM]@badge-info=;badges=vip/1;client-nonce=4bba9e26f242c0c40495dbb39c03d2f5;color=#5F9EA0;display-name=ThatGuy7;emotes=360:29-36;flags=;id=b190a4ee-af95-44b1-b3da-2f30b0c8071f;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594342135438;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :it's all a conspiracy anyway FailFish
+[7/9/2020 5:49:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:50:05 PM]@badge-info=;badges=vip/1;client-nonce=c6a8a455b5e9b2bf7222e9202a2c7b7a;color=#5F9EA0;display-name=ThatGuy7;emote-only=1;emotes=425618:0-2;flags=;id=42465d99-7f5f-4377-b2b9-5aba13097245;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594342206731;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :LUL
+[7/9/2020 5:50:25 PM]PING :tmi.twitch.tv
+[7/9/2020 5:50:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:50:54 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 5:51:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:52:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:52:54 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=d9bee99af866a3b229a17cf09053a274;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=773e642b-97de-4c57-ad8b-8e3cb5082fa8;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342375390;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :so hows the family
+[7/9/2020 5:53:09 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 5:53:24 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=cbfd2accdfa8014b78e28483e68832ba;color=#FF0000;display-name=Aussie_Madam;emotes=499:73-74;flags=;id=7f5ac2c4-0d3a-41ec-80b3-30ca9ae2b077;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342405506;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :are u back living at home cos that looks very much like ur parents place :)
+[7/9/2020 5:53:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:54:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:54:44 PM]PING :tmi.twitch.tv
+[7/9/2020 5:55:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:55:38 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=0dcca1cd9e91d538c8b3ddefe0fbcd02;color=#FF0000;display-name=Aussie_Madam;emotes=499:55-56;flags=;id=c14fb3e2-5955-48f9-9253-f4e6bb0d4410;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342539117;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :u must feel so proud that his taking after his big bro :)
+[7/9/2020 5:56:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:56:33 PM]@badge-info=;badges=;client-nonce=cfcfed210f3fc9a2a00814b846e0a1cf;color=;display-name=Imbored191;emotes=962012:0-16;flags=;id=451b3acb-db6d-4906-b92a-3b983170b604;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594342594642;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :righte5RileyClout best emote right here
+[7/9/2020 5:57:01 PM]@badge-info=;badges=vip/1;client-nonce=9975a4e1514fbe774d2b89aced788222;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=b4f62e2e-1c89-47df-a703-eec018d2c023;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594342622886;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :yeah connor wants TABS for his bday
+[7/9/2020 5:57:32 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:57:40 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=949918c6c8e11d1872309127c2d721e7;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=8e715644-cdaa-4132-bb73-f26e069e96cb;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342662077;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :speaking of games are u going to come play New World with us all??
+[7/9/2020 5:58:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:59:19 PM]PING :tmi.twitch.tv
+[7/9/2020 5:59:22 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=ac6a300eebbe698aa441feb7be9a27c9;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=d81ccaaf-b650-4a42-985e-d988858abfe5;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342763757;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :i have been alpha testing it for 6 months now
+[7/9/2020 5:59:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 5:59:45 PM]@badge-info=;badges=vip/1;client-nonce=6b24e5bf24d4d8c3f3321cea6fe5a536;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=3e2e1458-b011-4aa1-95b3-f0a7fc3dc21e;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594342786108;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :it'll only be a small group we're playing with
+[7/9/2020 5:59:56 PM]@badge-info=;badges=vip/1;client-nonce=4ac1d1a94c98c3148781bdd4f9cf8b2f;color=#5F9EA0;display-name=ThatGuy7;emotes=555555589:31-32;flags=;id=59f03366-be87-449c-85bc-a157be29cec0;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594342797299;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :...only EVERYONE from DnL days ;)
+[7/9/2020 6:00:20 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=639c095ecd4c4d3e7c90147bcbed71f4;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=2614d222-3278-429d-ba0f-fcc6865284f4;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342821673;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :#NDA dude
+[7/9/2020 6:00:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:01:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:01:33 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=9f3965f87aec089c8774c7ab5a406fa4;color=#FF0000;display-name=Aussie_Madam;emotes=499:127-128;flags=;id=9116f9b5-4754-4b19-ab51-148075edbd72;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594342894710;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :all can say is its totally worth the money to preorder it and its going to be a game that we can all play for a very long time :)
+[7/9/2020 6:02:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:03:22 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=4dab2090542c7aa15297d330ad99ff6d;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=3ed1de5c-173c-4bc5-b593-be8c42af4852;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594343003232;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :$50 i think but u get a betakey if u preorder
+[7/9/2020 6:03:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:03:39 PM]PING :tmi.twitch.tv
+[7/9/2020 6:03:43 PM]@badge-info=;badges=moderator/1,premium/1;client-nonce=ee666a2dc92e8b8091d374fa003c718a;color=#FF0000;display-name=Aussie_Madam;emotes=;flags=;id=7134173b-55ca-4360-816b-a208b17ff672;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594343024279;turbo=0;user-id=141622355;user-type=mod :aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PRIVMSG #righteousriley_ :and beta is on the 23/24 july
+[7/9/2020 6:04:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:05:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:06:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:07:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:07:48 PM]PING :tmi.twitch.tv
+[7/9/2020 6:08:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:09:23 PM]@badge-info=;badges=;client-nonce=7f653de756b7dff9d70382fd275f8c2f;color=;display-name=Imbored191;emotes=;flags=;id=22f0a190-9d12-4407-a854-c7430813ec61;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594343364516;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :Have they released all the guild features and the economy stuff
+[7/9/2020 6:09:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:10:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:11:33 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:12:05 PM]PING :tmi.twitch.tv
+[7/9/2020 6:12:08 PM]:aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:12:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:13:06 PM]:aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:13:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:14:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:15:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:16:14 PM]PING :tmi.twitch.tv
+[7/9/2020 6:16:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:17:32 PM]@badge-info=;badges=vip/1;client-nonce=889a33dd9e5bddbc43ca7d5a45229860;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=b2f477a0-fe90-4f83-869e-e661b9b720d7;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594343853423;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :we listen to mostly current top 40...and then old rock and rnb
+[7/9/2020 6:17:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:18:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:19:21 PM]:mollzzzz!mollzzzz@mollzzzz.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:19:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:20:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:20:53 PM]PING :tmi.twitch.tv
+[7/9/2020 6:21:25 PM]:mollzzzz!mollzzzz@mollzzzz.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:21:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:22:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:23:34 PM]:mollzzzz!mollzzzz@mollzzzz.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:23:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:24:34 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:25:29 PM]PING :tmi.twitch.tv
+[7/9/2020 6:25:31 PM]:mollzzzz!mollzzzz@mollzzzz.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:25:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:26:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:27:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:28:02 PM]@badge-info=;badges=vip/1;client-nonce=317fa2d18990c8af2320bfb5ac6bd12f;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=3effd4be-1132-4495-ae87-a7a22746da04;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594344483476;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :!lurk again
+[7/9/2020 6:28:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:29:32 PM]:mollzzzz!mollzzzz@mollzzzz.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:29:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:30:06 PM]PING :tmi.twitch.tv
+[7/9/2020 6:30:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:31:29 PM]:mollzzzz!mollzzzz@mollzzzz.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:31:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:32:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:33:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:34:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:35:02 PM]PING :tmi.twitch.tv
+[7/9/2020 6:35:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:36:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:37:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:38:32 PM]@badge-info=;badges=premium/1;client-nonce=91afac193604e50c5785decac34c879f;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=54093a98-e405-43f9-aa17-b5a7435eaaeb;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594345113266;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :damn this is a hype minecraft mod
+[7/9/2020 6:38:35 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:39:20 PM]@badge-info=;badges=premium/1;client-nonce=3b7816eeed0f83fc486410e69b685021;color=#FF4500;display-name=Shawnman107;emotes=;flags=;id=86d2c416-0373-4c14-9fc5-ea7e0a4ac1f9;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594345161465;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :can you move me in the channel?
+[7/9/2020 6:39:31 PM]@badge-info=;badges=premium/1;client-nonce=4d02171faefb5e93f5dc0845ea1d4e8f;color=#FF4500;display-name=Shawnman107;emotes=;flags=33-35:P.5;id=3f0f78df-aff1-49b9-a0b4-51be7834ef86;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594345172585;turbo=0;user-id=52674008;user-type= :shawnman107!shawnman107@shawnman107.tmi.twitch.tv PRIVMSG #righteousriley_ :yea i'm down, just enjoy my loud ass roommate
+[7/9/2020 6:39:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:39:54 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:40:00 PM]PING :tmi.twitch.tv
+[7/9/2020 6:40:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:41:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:42:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:43:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:44:19 PM]:xfitts!xfitts@xfitts.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:44:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:44:55 PM]PING :tmi.twitch.tv
+[7/9/2020 6:45:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:46:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:47:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:47:37 PM]:ckelpsh!ckelpsh@ckelpsh.tmi.twitch.tv JOIN #righteousriley_
+:streamlabs!streamlabs@streamlabs.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:48:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:49:15 PM]PING :tmi.twitch.tv
+[7/9/2020 6:49:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:49:46 PM]:streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:50:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:51:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:51:50 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:52:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:53:36 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:53:40 PM]PING :tmi.twitch.tv
+[7/9/2020 6:54:02 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 6:54:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:55:11 PM]:ckelpsh!ckelpsh@ckelpsh.tmi.twitch.tv PART #righteousriley_
+:xfitts!xfitts@xfitts.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 6:55:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:56:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:57:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:57:55 PM]PING :tmi.twitch.tv
+[7/9/2020 6:58:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 6:59:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:00:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:01:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:02:24 PM]PING :tmi.twitch.tv
+[7/9/2020 7:02:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:03:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:04:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:05:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:06:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:07:21 PM]PING :tmi.twitch.tv
+[7/9/2020 7:07:37 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:08:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:09:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:10:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:11:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:11:42 PM]:aussie_madam!aussie_madam@aussie_madam.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 7:12:18 PM]PING :tmi.twitch.tv
+[7/9/2020 7:12:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:13:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:13:45 PM]:needhymn!needhymn@needhymn.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 7:14:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:15:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:16:26 PM]PING :tmi.twitch.tv
+[7/9/2020 7:16:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:17:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:18:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:19:17 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 7:19:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:20:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:21:25 PM]PING :tmi.twitch.tv
+[7/9/2020 7:21:38 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:22:20 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 7:22:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:23:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:24:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:25:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:25:59 PM]PING :tmi.twitch.tv
+[7/9/2020 7:26:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:27:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:28:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:29:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:30:35 PM]PING :tmi.twitch.tv
+[7/9/2020 7:30:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:31:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:32:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:33:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:34:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:35:27 PM]PING :tmi.twitch.tv
+[7/9/2020 7:35:39 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:36:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:37:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:38:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:39:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:39:43 PM]PING :tmi.twitch.tv
+[7/9/2020 7:40:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:41:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:42:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:43:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:44:38 PM]PING :tmi.twitch.tv
+[7/9/2020 7:44:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:45:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:46:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:47:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:48:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:49:08 PM]PING :tmi.twitch.tv
+[7/9/2020 7:49:40 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:50:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:51:38 PM]:sweethali!sweethali@sweethali.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 7:51:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:52:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:53:36 PM]PING :tmi.twitch.tv
+[7/9/2020 7:53:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:53:53 PM]:sweethali!sweethali@sweethali.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 7:54:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:55:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:56:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:57:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:57:52 PM]PING :tmi.twitch.tv
+[7/9/2020 7:58:12 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 7:58:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 7:59:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:00:20 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv JOIN #righteousriley_
+:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:00:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:01:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:02:25 PM]@badge-info=;badges=;color=;display-name=Imbored191;emotes=;flags=;id=53140ebc-9c20-4c95-b728-9702a7642fbd;mod=0;msg-id=highlighted-message;room-id=73899023;subscriber=0;tmi-sent-ts=1594350146572;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :You have an awesome stream
+[7/9/2020 8:02:29 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 8:02:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:02:46 PM]PING :tmi.twitch.tv
+[7/9/2020 8:03:41 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:04:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:05:41 PM]:xfitts!xfitts@xfitts.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 8:05:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:05:51 PM]@badge-info=;badges=;color=;display-name=Xfitts;emotes=;flags=;id=3cf80de2-2667-454d-a828-b0bdce96cc7d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350353084;turbo=0;user-id=163200771;user-type= :xfitts!xfitts@xfitts.tmi.twitch.tv PRIVMSG #righteousriley_ :Forrest would have never allowed this farm on his server
+[7/9/2020 8:06:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:07:19 PM]PING :tmi.twitch.tv
+[7/9/2020 8:07:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:07:45 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:07:46 PM]@badge-info=;badges=;color=;display-name=Xfitts;emotes=;flags=;id=539f1ae0-67f8-4f8b-86c7-ed378574ad2d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350467681;turbo=0;user-id=163200771;user-type= :xfitts!xfitts@xfitts.tmi.twitch.tv PRIVMSG #righteousriley_ :What’s up dude
+[7/9/2020 8:08:04 PM]@badge-info=;badges=;color=;display-name=Xfitts;emotes=;flags=;id=842edd48-c2fc-4a6e-9e8a-b1cd5d30012d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350485730;turbo=0;user-id=163200771;user-type= :xfitts!xfitts@xfitts.tmi.twitch.tv PRIVMSG #righteousriley_ :Lol yes i do
+[7/9/2020 8:08:18 PM]@badge-info=;badges=;client-nonce=7136c0bc808e24482f2f19b1f22959e2;color=;display-name=Imbored191;emotes=64138:35-43;flags=;id=5c995295-721a-4d99-b5f6-190ccb2462b7;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350499751;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :That's why this server is the best SeemsGood
+[7/9/2020 8:08:37 PM]@badge-info=;badges=;color=;display-name=Xfitts;emotes=;flags=;id=6030edfd-6ba2-4a79-8284-72a33a2d757f;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350518288;turbo=0;user-id=163200771;user-type= :xfitts!xfitts@xfitts.tmi.twitch.tv PRIVMSG #righteousriley_ :Dang you got the setup
+[7/9/2020 8:08:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:09:29 PM]@badge-info=;badges=;color=;display-name=Xfitts;emotes=;flags=;id=ebd961ef-88f3-4e74-b013-635eb01a9063;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350570916;turbo=0;user-id=163200771;user-type= :xfitts!xfitts@xfitts.tmi.twitch.tv PRIVMSG #righteousriley_ :I’m down haha but I’ve got to make dinner real fast
+[7/9/2020 8:09:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:09:45 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 8:10:07 PM]@badge-info=;badges=;color=;display-name=Xfitts;emotes=;flags=;id=c7eb3261-4992-44d4-a72e-d50457dd1f85;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350609038;turbo=0;user-id=163200771;user-type= :xfitts!xfitts@xfitts.tmi.twitch.tv PRIVMSG #righteousriley_ :How long have you been on it?
+[7/9/2020 8:10:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:11:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:12:02 PM]PING :tmi.twitch.tv
+[7/9/2020 8:12:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:13:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:14:15 PM]@badge-info=;badges=premium/1;client-nonce=0d6182cafa4b0be3c579ed4aa88d4765;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=bd1de92c-c272-4c85-8165-944aea5cc409;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350856896;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :Victory Royal
+[7/9/2020 8:14:41 PM]@badge-info=;badges=premium/1;client-nonce=92f5d9a6fc5155d1501bd05eb313c422;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=353b77ad-5918-47c5-9541-679e57bbce77;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594350882310;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :yea i caved
+[7/9/2020 8:14:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:15:33 PM]:meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv JOIN #righteousriley_
+:shamwowmypants!shamwowmypants@shamwowmypants.tmi.twitch.tv JOIN #righteousriley_
+:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:15:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:16:22 PM]PING :tmi.twitch.tv
+[7/9/2020 8:16:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:17:42 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:18:37 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+:meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PART #righteousriley_
+:shamwowmypants!shamwowmypants@shamwowmypants.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:18:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:19:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:20:22 PM]PING :tmi.twitch.tv
+[7/9/2020 8:20:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:21:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:22:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:23:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:24:02 PM]:xfitts!xfitts@xfitts.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:24:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:25:07 PM]PING :tmi.twitch.tv
+[7/9/2020 8:25:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:26:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:27:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:28:16 PM]:xfitts!xfitts@xfitts.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 8:28:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:29:13 PM]@badge-info=;badges=vip/1;client-nonce=f934e2639ec649168d5428a33cd72796;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=b8d9ccf5-9331-4ea2-ad91-af736db13bbd;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594351755083;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :are you muted on purpose?
+[7/9/2020 8:29:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:29:59 PM]PING :tmi.twitch.tv
+[7/9/2020 8:30:14 PM]:communityshowcase!communityshowcase@communityshowcase.tmi.twitch.tv JOIN #righteousriley_
+:xfitts!xfitts@xfitts.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:30:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:31:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:32:21 PM]:shawnman107!shawnman107@shawnman107.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:32:30 PM]@badge-info=;badges=vip/1;client-nonce=3aff68a75dd22ab2b035b2f1388a2c30;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=61b3ad18-d363-4e03-85fa-f4ee2e21b0f0;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594351951552;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :not too bad
+[7/9/2020 8:32:43 PM]@badge-info=;badges=vip/1;client-nonce=680af43ff0da633d0e47b919df5ac57f;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=e59dc2d2-b3df-463b-8346-b481789ee1f6;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594351964988;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :too many meetings tho...got another one in 30 mins
+[7/9/2020 8:32:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:32:52 PM]@badge-info=;badges=vip/1;client-nonce=e8aab9ca88828a779553b99d7446199e;color=#5F9EA0;display-name=ThatGuy7;emotes=555555558:25-26;flags=;id=392a75f5-8305-47ab-91a0-f16ed7385c7a;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594351974066;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :marathon quoting meeting :(
+[7/9/2020 8:33:24 PM]@badge-info=;badges=vip/1;client-nonce=35650869e2d5c69caa3ab04236ad00b6;color=#5F9EA0;display-name=ThatGuy7;emotes=555555589:52-53;flags=;id=31674f9d-44dd-4616-b20e-8708878d2f28;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352006177;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :now we just gotta expand it into a twitch chat game ;)
+[7/9/2020 8:33:43 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:34:04 PM]PING :tmi.twitch.tv
+[7/9/2020 8:34:20 PM]:communityshowcase!communityshowcase@communityshowcase.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 8:34:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:35:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:35:49 PM]@badge-info=;badges=vip/1;client-nonce=715df6cf095a2a103ecec1dfed07d0b5;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=0f56aebd-680c-4a8b-948b-62de8c803b47;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352150674;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :nah...new challenge would be to increase that number in the csv every 5 minutes, but only if the user is in chat
+[7/9/2020 8:36:11 PM]@badge-info=;badges=vip/1;client-nonce=5f56ab70a6c5cb8c6c126dc9a03c6da0;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=769e645a-306e-466e-9d51-765642ae10ac;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352172562;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :so you'll also probs want to update the code to also store the users twitch id as well as the username
+[7/9/2020 8:36:39 PM]@badge-info=;badges=vip/1;client-nonce=c891c9941ddd192bc2e84ccff1889d93;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=19c716ff-21f0-4796-95c8-e2f4dd0d6f1d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352200947;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :in case the user changes their twitch name
+[7/9/2020 8:36:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:37:32 PM]@badge-info=;badges=vip/1;client-nonce=29f82a905c8b94c0ccb7866021cfd6c8;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=e534a66e-4527-4198-9c3b-c81e5a04f286;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352253590;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :yeah csv will be fine for a small scale tiwtch chat game...just load it all into memory and save the data every XX minutes (or when something changes)
+[7/9/2020 8:37:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:37:51 PM]@badge-info=;badges=vip/1;client-nonce=592ebf2dfb50d889eddc8073d029cb42;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=e5809bdc-5528-40e5-86e2-9f5a02d88a21;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352272347;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :so you don't have to load and loop through every time
+[7/9/2020 8:38:24 PM]PING :tmi.twitch.tv
+[7/9/2020 8:38:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:39:02 PM]@badge-info=;badges=vip/1;client-nonce=d7c39f5efa9920522eb153abf00eabc8;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=c92b7d41-5634-4c12-b6a9-dd5a15ed5280;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352343335;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :the other thing you could is look into integrating it with the existing chat points system that streamlabs chat bot has
+[7/9/2020 8:39:18 PM]@badge-info=;badges=vip/1;client-nonce=3a5686626bb888c7a30125ee59f257cb;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=63c439f1-21e0-40db-8f8c-092398e36562;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352359389;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :do you watch omnikevfka?
+[7/9/2020 8:39:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:39:51 PM]@badge-info=;badges=vip/1;client-nonce=8a8f31598f809d77dffc694ecae3d5b4;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=18923c47-da13-4463-a30a-6b2b91ab84ba;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352392594;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :i wrote a script for him that uses the chat points
+[7/9/2020 8:39:56 PM]@badge-info=;badges=vip/1;client-nonce=6528479aa515608a73d8b97b440b18da;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=38dfa48c-c2bb-46d8-a986-5ee576bd583d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352397989;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :his omnibutton
+[7/9/2020 8:40:26 PM]@badge-info=;badges=vip/1;client-nonce=f4dfa82b3f6905f057a806da1290e0bb;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=4ab000dc-9d5e-43ee-92c9-b7c2534ebb9a;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594352428197;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :lol yeah and now has like 300 at a time
+[7/9/2020 8:40:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:41:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:42:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:42:53 PM]PING :tmi.twitch.tv
+[7/9/2020 8:43:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:44:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:45:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:46:44 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:47:34 PM]PING :tmi.twitch.tv
+[7/9/2020 8:47:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:48:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:49:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:50:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:51:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:52:12 PM]PING :tmi.twitch.tv
+[7/9/2020 8:52:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:53:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:54:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:55:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:56:42 PM]PING :tmi.twitch.tv
+[7/9/2020 8:56:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:57:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:57:46 PM]@badge-info=;badges=vip/1;client-nonce=12b84f36c801e42a63b14df6016a217a;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=06c38c01-a4f7-4be2-acf3-bf6041bbdb46;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594353467999;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :ok gotta go into this meeting now...so back to lurking
+[7/9/2020 8:58:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 8:59:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:00:45 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:01:30 PM]PING :tmi.twitch.tv
+[7/9/2020 9:01:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:02:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:03:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:04:16 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 9:04:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:05:42 PM]PING :tmi.twitch.tv
+[7/9/2020 9:05:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:06:16 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+:prankcher!prankcher@prankcher.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 9:06:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:07:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:08:25 PM]:prankcher!prankcher@prankcher.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 9:08:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:09:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:10:16 PM]PING :tmi.twitch.tv
+[7/9/2020 9:10:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:11:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:12:44 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 9:12:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:13:46 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:13:47 PM]:bloodlustr!bloodlustr@bloodlustr.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 9:14:38 PM]PING :tmi.twitch.tv
+[7/9/2020 9:14:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:15:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:16:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:17:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:17:53 PM]:bloodlustr!bloodlustr@bloodlustr.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 9:18:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:19:24 PM]PING :tmi.twitch.tv
+[7/9/2020 9:19:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:20:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:21:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:22:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:23:42 PM]PING :tmi.twitch.tv
+[7/9/2020 9:23:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:24:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:25:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:26:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:27:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:28:09 PM]PING :tmi.twitch.tv
+[7/9/2020 9:28:47 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:29:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:30:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:31:29 PM]@badge-info=;badges=vip/1;client-nonce=940880502fbfddc133eb91db6d1ee68c;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=f1396fd1-2755-4818-acae-6333b49f37b1;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355490372;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :w00t! other members of the meeting weren't prepared so it got moved to monday!! #Winning
+[7/9/2020 9:31:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:32:21 PM]@badge-info=;badges=vip/1;client-nonce=7dcc8d8ba2554a4e426b351dc4a413ed;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=59-64:;id=6fc3d24c-5af8-45f4-91c8-89aa8427d485;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355543198;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :now i only have 2.5 more hours and i can start drinking my beer!!
+[7/9/2020 9:32:34 PM]PING :tmi.twitch.tv
+[7/9/2020 9:32:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:33:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:34:12 PM]@badge-info=;badges=vip/1;client-nonce=2ff6069959e806a267763f38b8f9d33e;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=5aa44db7-43f6-4236-b973-dbc27ebf9e31;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355653795;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :yep that's exactly correct....if it reaches the point of self harm it breaches TOS...and you cn't drink as reward for something...so no "shots for bits or follows"
+[7/9/2020 9:34:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:35:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:35:50 PM]@badge-info=;badges=vip/1;client-nonce=14fe443e223d80486ccf7e893b5b3bfb;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=a6f63f4f-79d3-465b-a67e-38f03bdb135b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355751859;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :yeah that's how you end up with crazy emotes in other peoples discords
+[7/9/2020 9:35:58 PM]@badge-info=;badges=vip/1;client-nonce=11cca555144086aba8c9363134edeecd;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=eecc2ebc-478d-4a13-a1a7-3734ae6a8542;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355760314;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :uhhh....not that i'd know
+[7/9/2020 9:36:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:37:01 PM]PING :tmi.twitch.tv
+[7/9/2020 9:37:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:38:16 PM]@badge-info=;badges=;client-nonce=69cf0e8fc12f0e872c274f49ec6e9696;color=;display-name=Imbored191;emote-only=1;emotes=962012_TK:0-19;flags=;id=57914515-262b-4a13-947c-76b6643a4138;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355898227;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :righte5RileyClout_TK
+[7/9/2020 9:38:21 PM]@badge-info=;badges=vip/1;client-nonce=ab8304ede4ed1f2983986ddb9c27d2d9;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=5dc17b7f-cdb9-45ce-881b-3d2c9ab210c3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355902874;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :nah...full time....i'm the tech lead now
+[7/9/2020 9:38:44 PM]@badge-info=;badges=vip/1;client-nonce=e080f47268ab68ca6e2fd705b12a5303;color=#5F9EA0;display-name=ThatGuy7;emotes=425618:84-86;flags=;id=19164c70-74ac-4695-9e97-4b8626666222;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355925996;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :so supposed to be 50% management and 50% dev...more like 80% management and 40% dev LUL
+[7/9/2020 9:38:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:38:56 PM]@badge-info=;badges=premium/1;client-nonce=0cc20da77049ec5296936f2d9b82c118;color=;display-name=dcamby;emotes=;flags=;id=348d0176-d003-4a8f-9ac4-24b7e4b52964;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355938334;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :Trickshot a cow
+[7/9/2020 9:39:39 PM]@badge-info=;badges=vip/1;client-nonce=3127b3c925f8654728ad71365c34930f;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=c113fd49-2f8d-49e5-b660-a90164ea7fde;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594355980882;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :nah i miss being able to just get lost in code
+[7/9/2020 9:39:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:39:56 PM]:dcamby!dcamby@dcamby.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 9:40:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:41:48 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:41:54 PM]PING :tmi.twitch.tv
+[7/9/2020 9:42:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:43:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:44:11 PM]:dcamby!dcamby@dcamby.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 9:44:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:45:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:46:21 PM]PING :tmi.twitch.tv
+[7/9/2020 9:46:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:47:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:48:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:49:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:50:43 PM]PING :tmi.twitch.tv
+[7/9/2020 9:50:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:51:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:52:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:53:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:54:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:55:10 PM]PING :tmi.twitch.tv
+[7/9/2020 9:55:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:56:49 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:57:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:58:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 9:59:16 PM]PING :tmi.twitch.tv
+[7/9/2020 9:59:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:00:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:01:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:02:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:03:20 PM]PING :tmi.twitch.tv
+[7/9/2020 10:03:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:04:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:05:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:06:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:07:48 PM]PING :tmi.twitch.tv
+[7/9/2020 10:07:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:08:50 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:09:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:10:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:11:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:12:14 PM]PING :tmi.twitch.tv
+[7/9/2020 10:12:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:13:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:14:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:15:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:16:46 PM]PING :tmi.twitch.tv
+[7/9/2020 10:16:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:17:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:18:37 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 10:18:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:19:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:20:46 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 10:20:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:21:19 PM]PING :tmi.twitch.tv
+[7/9/2020 10:21:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:22:51 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:23:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:24:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:25:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:26:07 PM]PING :tmi.twitch.tv
+[7/9/2020 10:26:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:27:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:28:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:29:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:30:33 PM]PING :tmi.twitch.tv
+[7/9/2020 10:30:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:31:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:32:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:33:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:34:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:35:14 PM]PING :tmi.twitch.tv
+[7/9/2020 10:35:52 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:36:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:37:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:38:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:39:46 PM]PING :tmi.twitch.tv
+[7/9/2020 10:39:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:40:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:41:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:42:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:43:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:44:19 PM]PING :tmi.twitch.tv
+[7/9/2020 10:44:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:45:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:46:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:47:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:48:24 PM]PING :tmi.twitch.tv
+[7/9/2020 10:48:47 PM]:needhymn!needhymn@needhymn.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 10:48:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:49:53 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:50:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:51:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:52:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:53:06 PM]PING :tmi.twitch.tv
+[7/9/2020 10:53:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:54:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:55:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:56:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:57:10 PM]PING :tmi.twitch.tv
+[7/9/2020 10:57:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:58:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 10:59:23 PM]@badge-info=;badges=vip/1;client-nonce=8e8776a1034bd70fd7c1fbae4bde4dc4;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=f8948c39-ff12-47a8-b0ca-04c5a84b6e79;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594360764763;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :10 hours lol
+[7/9/2020 10:59:31 PM]@badge-info=;badges=vip/1;client-nonce=a046a980cb68710278ae2034cd4b1d99;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=e27375f0-c087-439d-ab7e-bc4e50eed3b9;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594360773328;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :"a while"
+[7/9/2020 10:59:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:00:33 PM]:prankcher!prankcher@prankcher.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 11:00:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:00:56 PM]@badge-info=;badges=vip/1;client-nonce=1cd1ed14c72e4a805456e3557da60efa;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=a8452ee6-7c8c-42e0-9430-598b98fcb510;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594360858040;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :brb screen is up?
+[7/9/2020 11:01:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:02:00 PM]PING :tmi.twitch.tv
+[7/9/2020 11:02:34 PM]:prankcher!prankcher@prankcher.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 11:02:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:03:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:04:54 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:05:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:06:45 PM]PING :tmi.twitch.tv
+[7/9/2020 11:06:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:07:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:08:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:09:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:10:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:11:36 PM]PING :tmi.twitch.tv
+[7/9/2020 11:11:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:12:17 PM]@badge-info=;badges=;client-nonce=60a78be19fae064bf302f20712a788e5;color=;display-name=Imbored191;emotes=;flags=;id=539389fb-bb88-452d-87ce-fad017972211;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594361539290;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :Great stream man!
+[7/9/2020 11:12:51 PM]:mitch4170!mitch4170@mitch4170.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 11:12:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:13:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:14:50 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+[7/9/2020 11:14:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:15:48 PM]@badge-info=;badges=vip/1;client-nonce=3fc26a7c9bcaafcbbccea9edba91f214;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=66d071d5-f179-4e2c-97df-431b28598736;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594361749984;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :thanks for keeping me entertained between meetings!!
+[7/9/2020 11:15:55 PM]PING :tmi.twitch.tv
+[7/9/2020 11:15:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:16:54 PM]:mitch4170!mitch4170@mitch4170.tmi.twitch.tv PART #righteousriley_
+[7/9/2020 11:16:55 PM]PONG :tmi.twitch.tv
+[7/9/2020 11:17:04 PM]@badge-info=;badges=vip/1;client-nonce=0206f81b67574b7521c10f3cda642c86;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=2ca01415-636f-482c-9483-f24a830c41e3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594361825796;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :yup...gonna be cool...we'll exp0and on the tiwtch bot and get setup for the mobile game
+[7/9/2020 11:17:51 PM]@badge-info=;badges=vip/1;client-nonce=f37c7a01f920d952922fdfafeb4f658b;color=#5F9EA0;display-name=ThatGuy7;emotes=;flags=;id=adaf91b5-4b53-4446-8fc9-2fdcaa161878;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594361872627;turbo=0;user-id=134819461;user-type= :thatguy7!thatguy7@thatguy7.tmi.twitch.tv PRIVMSG #righteousriley_ :yeah def
+[7/9/2020 11:17:55 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:43:32 PM]:tmi.twitch.tv 001 righteousriley_ :Welcome, GLHF!
+:tmi.twitch.tv 002 righteousriley_ :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 righteousriley_ :This server is rather new
+:tmi.twitch.tv 004 righteousriley_ :-
+:tmi.twitch.tv 375 righteousriley_ :-
+:tmi.twitch.tv 372 righteousriley_ :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 righteousriley_ :>
+[7/10/2020 9:43:32 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[7/10/2020 9:43:32 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[7/10/2020 9:43:32 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[7/10/2020 9:43:32 PM]:righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv JOIN #righteousriley_
+[7/10/2020 9:43:32 PM]:righteousriley_.tmi.twitch.tv 353 righteousriley_ = #righteousriley_ :righteousriley_
+:righteousriley_.tmi.twitch.tv 366 righteousriley_ #righteousriley_ :End of /NAMES list
+[7/10/2020 9:43:32 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=73899023;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #righteousriley_
+[7/10/2020 9:43:52 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;client-nonce=9156c1b6165160efe19f9e77304f7ac5;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=ec79f352-f14e-4cc5-affa-7bb73653abbb;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1594442633639;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :!join
+[7/10/2020 9:43:52 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=1092acfc-d37d-4472-959f-313cfb986a9d;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594442633984;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :RighteousRiley_ has joined The Cool Kids Club
+[7/10/2020 9:43:57 PM]@badge-info=;badges=premium/1;client-nonce=a275592ab15d86e19a434a5c36822715;color=;display-name=dcamby;emotes=;flags=;id=efbfd1c0-d4cc-4352-9852-6a21307bb3c1;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594442638967;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ :Stream valorant with me
+[7/10/2020 9:43:59 PM]:anotherttvviewer!anotherttvviewer@anotherttvviewer.tmi.twitch.tv JOIN #righteousriley_
+:lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #righteousriley_
+:streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #righteousriley_
+[7/10/2020 9:44:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:44:19 PM]@badge-info=;badges=premium/1;client-nonce=a6efe283876453fc9a50aebdf4b9dbd8;color=;display-name=dcamby;emote-only=1;emotes=555555558:0-1;flags=;id=4096bc0e-5698-45a8-b97e-c395d6d3dea5;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594442660671;turbo=0;user-id=152340991;user-type= :dcamby!dcamby@dcamby.tmi.twitch.tv PRIVMSG #righteousriley_ ::(
+[7/10/2020 9:45:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:45:07 PM]:pleemptv!pleemptv@pleemptv.tmi.twitch.tv JOIN #righteousriley_
+:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv JOIN #righteousriley_
+[7/10/2020 9:46:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:47:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:47:15 PM]:pleemptv!pleemptv@pleemptv.tmi.twitch.tv PART #righteousriley_
+[7/10/2020 9:48:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:48:19 PM]PING :tmi.twitch.tv
+[7/10/2020 9:49:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:49:17 PM]:imbored191!imbored191@imbored191.tmi.twitch.tv JOIN #righteousriley_
+[7/10/2020 9:50:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:51:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:52:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:53:01 PM]PING :tmi.twitch.tv
+[7/10/2020 9:53:06 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:54:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:55:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:56:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:57:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:57:31 PM]PING :tmi.twitch.tv
+[7/10/2020 9:58:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 9:59:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:00:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:01:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:02:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:02:19 PM]PING :tmi.twitch.tv
+[7/10/2020 10:02:54 PM]:meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv JOIN #righteousriley_
+[7/10/2020 10:03:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:04:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:05:02 PM]:meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PART #righteousriley_
+[7/10/2020 10:05:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:06:07 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:07:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:07:18 PM]PING :tmi.twitch.tv
+[7/10/2020 10:08:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:09:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:10:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:11:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:12:07 PM]PING :tmi.twitch.tv
+[7/10/2020 10:12:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:13:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:14:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:15:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:16:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:17:07 PM]PING :tmi.twitch.tv
+[7/10/2020 10:17:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:18:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:19:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:20:08 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:21:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:21:21 PM]PING :tmi.twitch.tv
+[7/10/2020 10:22:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:23:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:24:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:25:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:25:24 PM]PING :tmi.twitch.tv
+[7/10/2020 10:26:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:27:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:28:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:29:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:30:04 PM]PING :tmi.twitch.tv
+[7/10/2020 10:30:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:31:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:32:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:33:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:34:09 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:34:59 PM]PING :tmi.twitch.tv
+[7/10/2020 10:35:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:36:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:37:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:38:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:39:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:39:36 PM]PING :tmi.twitch.tv
+[7/10/2020 10:40:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:41:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:42:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:43:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:44:01 PM]PING :tmi.twitch.tv
+[7/10/2020 10:44:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:45:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:46:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:47:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:48:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:48:16 PM]PING :tmi.twitch.tv
+[7/10/2020 10:49:10 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:50:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:51:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:52:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:52:20 PM]PING :tmi.twitch.tv
+[7/10/2020 10:53:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:54:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:55:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:56:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:57:04 PM]PING :tmi.twitch.tv
+[7/10/2020 10:57:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:58:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 10:59:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:00:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:01:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:01:25 PM]PING :tmi.twitch.tv
+[7/10/2020 11:02:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:03:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:04:11 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:05:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:06:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:06:22 PM]PING :tmi.twitch.tv
+[7/10/2020 11:07:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:07:18 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PART #righteousriley_
+[7/10/2020 11:08:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:09:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:09:22 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv JOIN #righteousriley_
+[7/10/2020 11:10:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:10:39 PM]PING :tmi.twitch.tv
+[7/10/2020 11:11:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:12:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:13:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:14:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:15:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:15:23 PM]PING :tmi.twitch.tv
+[7/10/2020 11:16:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:17:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:18:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:19:12 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:19:49 PM]PING :tmi.twitch.tv
+[7/10/2020 11:20:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:21:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:22:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:23:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:24:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:24:20 PM]PING :tmi.twitch.tv
+[7/10/2020 11:25:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:26:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:27:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:28:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:29:08 PM]PING :tmi.twitch.tv
+[7/10/2020 11:29:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:30:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:31:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:32:11 PM]@badge-info=;badges=;client-nonce=0349af83da1d086faf615e4af9f72a8f;color=;display-name=Imbored191;emotes=;flags=;id=5b446bcb-8794-4b88-8721-b70e99a660f5;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1594449133361;turbo=0;user-id=515031868;user-type= :imbored191!imbored191@imbored191.tmi.twitch.tv PRIVMSG #righteousriley_ :great stream!
+[7/10/2020 11:32:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:32:16 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+[7/10/2020 11:32:21 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+[7/10/2020 11:32:36 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+[7/10/2020 11:32:36 PM]@badge-info=;badges=moderator/1;color=;display-name=rileysfirstbot;emotes=;flags=;id=b2cc3a85-a5e5-4c58-be64-36927560b0b5;mod=1;room-id=73899023;subscriber=0;tmi-sent-ts=1594449158461;turbo=0;user-id=552798351;user-type=mod :rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv PRIVMSG #righteousriley_ :You are not an alien!
+[7/10/2020 11:32:41 PM]@badge-info=subscriber/27;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+[7/10/2020 11:33:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:34:03 PM]PING :tmi.twitch.tv
+[7/10/2020 11:34:13 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:35:14 PM]PONG :tmi.twitch.tv
+[7/10/2020 11:36:03 PM]:imbored191!imbored191@imbored191.tmi.twitch.tv PART #righteousriley_
+[7/10/2020 11:36:14 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:41:28 PM]:tmi.twitch.tv 001 righteousriley_ :Welcome, GLHF!
+:tmi.twitch.tv 002 righteousriley_ :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 righteousriley_ :This server is rather new
+:tmi.twitch.tv 004 righteousriley_ :-
+:tmi.twitch.tv 375 righteousriley_ :-
+:tmi.twitch.tv 372 righteousriley_ :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 righteousriley_ :>
+[7/24/2020 3:41:28 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[7/24/2020 3:41:28 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[7/24/2020 3:41:28 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[7/24/2020 3:41:28 PM]:righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 3:41:28 PM]:righteousriley_.tmi.twitch.tv 353 righteousriley_ = #righteousriley_ :righteousriley_
+:righteousriley_.tmi.twitch.tv 366 righteousriley_ #righteousriley_ :End of /NAMES list
+@badge-info=subscriber/28;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+[7/24/2020 3:41:28 PM]@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=73899023;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #righteousriley_
+[7/24/2020 3:41:47 PM]:streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 3:42:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:43:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:44:01 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 3:44:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:45:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:46:14 PM]PING :tmi.twitch.tv
+[7/24/2020 3:46:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:47:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:48:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:49:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:50:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:51:08 PM]PING :tmi.twitch.tv
+[7/24/2020 3:51:24 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:52:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:53:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:54:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:55:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:56:00 PM]PING :tmi.twitch.tv
+[7/24/2020 3:56:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:57:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:57:36 PM]@badge-info=subscriber/28;badges=broadcaster/1,subscriber/0;client-nonce=e273a095c20417e7abc838223d79fdf5;color=#D72828;display-name=RighteousRiley_;emotes=;flags=;id=5929b4ef-8569-46d4-8306-a31c8a4042a4;mod=0;room-id=73899023;subscriber=1;tmi-sent-ts=1595631457539;turbo=0;user-id=73899023;user-type= :righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv PRIVMSG #righteousriley_ :test
+[7/24/2020 3:58:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 3:59:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:00:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:00:35 PM]PING :tmi.twitch.tv
+[7/24/2020 4:01:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:02:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:03:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:04:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:05:12 PM]PING :tmi.twitch.tv
+[7/24/2020 4:05:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:06:25 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:07:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:08:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:09:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:09:32 PM]PING :tmi.twitch.tv
+[7/24/2020 4:10:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:11:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:12:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:13:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:14:26 PM]PING :tmi.twitch.tv
+[7/24/2020 4:14:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:15:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:16:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:17:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:17:47 PM]@badge-info=;badges=;color=;display-name=imineano1327;emotes=;flags=56-69:;id=11a5017a-e120-4857-b761-9403baa7357c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595632668836;turbo=0;user-id=557670680;user-type= :imineano1327!imineano1327@imineano1327.tmi.twitch.tv PRIVMSG #righteousriley_ :Wanna become famous? Buy followers, primes and views on bigfollows.com (bigfollows. com)!
+[7/24/2020 4:18:12 PM]@badge-info=;badges=;color=;display-name=pdlenovo01239;emotes=;flags=56-69:;id=9c48948c-1766-4b0b-a685-ffb81b8c060b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595632693084;turbo=0;user-id=557671078;user-type= :pdlenovo01239!pdlenovo01239@pdlenovo01239.tmi.twitch.tv PRIVMSG #righteousriley_ :Wanna become famous? Buy followers, primes and views on bigfollows.com (bigfollows. com)!
+[7/24/2020 4:18:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:18:28 PM]@badge-info=;badges=;color=;display-name=srwqe896314069;emotes=;flags=56-69:;id=1c02f3c8-3be9-48f0-b018-0ad53e5e0130;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595632709956;turbo=0;user-id=557656108;user-type= :srwqe896314069!srwqe896314069@srwqe896314069.tmi.twitch.tv PRIVMSG #righteousriley_ :Wanna become famous? Buy followers, primes and views on bigfollows.com (bigfollows. com)!
+[7/24/2020 4:18:46 PM]PING :tmi.twitch.tv
+[7/24/2020 4:19:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:20:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:21:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:22:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:23:24 PM]PING :tmi.twitch.tv
+[7/24/2020 4:23:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:24:26 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:25:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:26:18 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 4:26:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:27:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:27:42 PM]PING :tmi.twitch.tv
+[7/24/2020 4:27:45 PM]@badge-info=;badges=premium/1;client-nonce=f837cfc8643091ac43e67b766c9100b2;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=6a33fc82-a0d2-40a5-8fb4-0bb28dd10196;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633266757;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :dude bro
+[7/24/2020 4:28:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:29:12 PM]@badge-info=;badges=premium/1;client-nonce=c271bb7155026390a21e3b40c6e8bbd5;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=0bcf2a10-3fd3-4501-b415-95a2cd2e551d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633353827;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :fixed the chair
+[7/24/2020 4:29:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:29:32 PM]@badge-info=;badges=premium/1;client-nonce=3a1f0da0bf17e9c353ae86898a7f062a;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=9f284b88-1e83-440d-aca6-f05314cf190c;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633373214;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :yea
+[7/24/2020 4:29:46 PM]@badge-info=;badges=premium/1;client-nonce=c83104f5f8c86e9bc5a865273dddd861;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=f9440ed4-8c63-41b1-be98-858de141bfd5;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633387129;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :screwed the arm to base of the chair XD
+[7/24/2020 4:30:13 PM]@badge-info=;badges=premium/1;client-nonce=0e3b7840fd30fe626830d7eaa1eb5c16;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=1f2bae09-0938-44a6-bafa-70ffd5830911;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633415067;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :yea tape lasted me like 2 mins
+[7/24/2020 4:30:24 PM]@badge-info=;badges=premium/1;client-nonce=75a6aba63dd78b37d37c968b62dddf5f;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=df6b7052-f77f-4978-aa9b-a7ceb3580169;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633425255;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :ofc
+[7/24/2020 4:30:26 PM]@badge-info=;badges=premium/1;client-nonce=e0645dd33a063837aa43f2cba1b8d068;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=a00ec081-70d4-4298-9630-405028784e22;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633427736;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :way better
+[7/24/2020 4:30:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:30:37 PM]:meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 4:30:40 PM]@badge-info=;badges=premium/1;client-nonce=a8f355923d7fde0686eaf5dc172602a4;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=d62fb11f-1371-4234-905b-819be34c3059;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633441954;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :gaem sound is louder than you btw'
+[7/24/2020 4:31:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:32:10 PM]@badge-info=;badges=premium/1;client-nonce=cdf92ab65d513229d3a45f1b9b5efebe;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=6f921dde-8b27-46a7-b929-2cfc7a94fb9b;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633531320;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :moved all his stuff in today
+[7/24/2020 4:32:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:32:33 PM]PING :tmi.twitch.tv
+[7/24/2020 4:33:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:33:39 PM]@badge-info=founder/3;badges=founder/0,premium/1;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=e96b56ce-48e8-4ffc-9e1b-3bf3534d227d;login=meowbiotch;mod=0;msg-id=resub;msg-param-cumulative-months=3;msg-param-months=0;msg-param-should-share-streak=1;msg-param-streak-months=1;msg-param-sub-plan-name=Channel\sSubscription\s(righteosriley)\s4.99\sSub;msg-param-sub-plan=1000;room-id=73899023;subscriber=1;system-msg=meowbiotch\ssubscribed\sat\sTier\s1.\sThey've\ssubscribed\sfor\s3\smonths,\scurrently\son\sa\s1\smonth\sstreak!;tmi-sent-ts=1595633620746;user-id=71629855;user-type= :tmi.twitch.tv USERNOTICE #righteousriley_
+[7/24/2020 4:34:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:34:45 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=a471f3d41e798c7967843c28c42deb20;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=ec8eb93e-690f-457f-8e52-5a61fd3995c3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633687034;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :i started playing smite some
+[7/24/2020 4:35:07 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=5953c09ef464b8e0144b2df5d31da21e;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=6a0c5f77-c415-4910-8cf3-311cfb0e33f2;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633708202;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :wow is getting dry since end of expac
+[7/24/2020 4:35:21 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=6eabb82ec3182c8a4d4d7d0e7b6cba89;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=8acc1afb-cfa5-4de2-89ef-e62c146841f4;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633722128;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :shadowlands comes out in a few months
+[7/24/2020 4:35:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:35:34 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=cbaf3048b45f4d11f9bee6ac5b91ddc6;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=15bbf76b-2e43-4ed1-bb29-5f57b9a55853;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633736009;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :lol prob not
+[7/24/2020 4:35:51 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=f6b2f8f75f73f0d33c6b8cbbc080b572;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=39116555-e7a2-4a28-935d-7dc87cd50823;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633752195;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :if i had enough time i might get a laptop or something
+[7/24/2020 4:36:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:36:37 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=e62f2a63d60a14de8c5bac7852078e39;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=98b8ad2e-431e-4a12-9028-83e3bdcaf2e7;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633799103;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :nothing
+[7/24/2020 4:37:22 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=5bca2cb52c723715d94a0928c72bef03;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=44ab9753-a498-4710-bf47-54c8bd8961f3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595633843182;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :anything i bring i have to mail back home so not worth it anyway
+[7/24/2020 4:37:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:37:28 PM]PING :tmi.twitch.tv
+[7/24/2020 4:38:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:39:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:40:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:40:35 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=1eda01a81c4987b761a294e9f98de61b;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=d3c0491d-ff34-4dd9-b609-14468ac9e734;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595634037077;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :well im gonna go pwn kade in some fortnite
+[7/24/2020 4:40:39 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=d14ba90288ddfb8ab4322579a647f00e;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=9f15f7f6-5afd-4a44-a932-1623dae712d3;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595634041045;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :hes bullying dad
+[7/24/2020 4:41:01 PM]@badge-info=founder/3;badges=founder/0,premium/1;client-nonce=8a07a8deb5949c02427c8d5b436abe76;color=#0000FF;display-name=meowbiotch;emotes=;flags=;id=e4011b2b-93ad-46e8-b806-7c10a4523b3d;mod=0;room-id=73899023;subscriber=0;tmi-sent-ts=1595634062478;turbo=0;user-id=71629855;user-type= :meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PRIVMSG #righteousriley_ :pce
+[7/24/2020 4:41:27 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:41:37 PM]PING :tmi.twitch.tv
+[7/24/2020 4:42:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:43:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:44:06 PM]:meowbiotch!meowbiotch@meowbiotch.tmi.twitch.tv PART #righteousriley_
+[7/24/2020 4:44:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:45:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:45:46 PM]PING :tmi.twitch.tv
+[7/24/2020 4:46:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:47:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:48:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:49:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:50:11 PM]PING :tmi.twitch.tv
+[7/24/2020 4:50:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:51:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:52:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:53:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:54:16 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 4:54:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:54:35 PM]PING :tmi.twitch.tv
+[7/24/2020 4:55:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:56:28 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:57:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:58:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:59:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 4:59:30 PM]PING :tmi.twitch.tv
+[7/24/2020 5:00:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:01:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:02:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:03:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:04:06 PM]PING :tmi.twitch.tv
+[7/24/2020 5:04:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:04:52 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv PART #righteousriley_
+[7/24/2020 5:05:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:06:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:07:03 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 5:07:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:08:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:08:30 PM]PING :tmi.twitch.tv
+[7/24/2020 5:09:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:10:14 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv PART #righteousriley_
+:thiccur!thiccur@thiccur.tmi.twitch.tv PART #righteousriley_
+[7/24/2020 5:10:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:11:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:12:29 PM]:lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #righteousriley_
+:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 5:12:29 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:12:45 PM]PING :tmi.twitch.tv
+[7/24/2020 5:13:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:14:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:14:39 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv PART #righteousriley_
+[7/24/2020 5:15:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:16:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:16:46 PM]:thiccur!thiccur@thiccur.tmi.twitch.tv JOIN #righteousriley_
+[7/24/2020 5:17:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:17:35 PM]PING :tmi.twitch.tv
+[7/24/2020 5:18:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:19:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:20:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:21:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:22:08 PM]PING :tmi.twitch.tv
+[7/24/2020 5:22:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:23:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:24:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:25:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:26:28 PM]PING :tmi.twitch.tv
+[7/24/2020 5:26:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:27:30 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:28:31 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:29:31 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:30:31 PM]PONG :tmi.twitch.tv
+[7/24/2020 5:30:39 PM]PING :tmi.twitch.tv
+[7/24/2020 5:31:31 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:23:44 PM]:tmi.twitch.tv 001 righteousriley_ :Welcome, GLHF!
+:tmi.twitch.tv 002 righteousriley_ :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 righteousriley_ :This server is rather new
+:tmi.twitch.tv 004 righteousriley_ :-
+:tmi.twitch.tv 375 righteousriley_ :-
+:tmi.twitch.tv 372 righteousriley_ :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 righteousriley_ :>
+[7/25/2020 3:23:44 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[7/25/2020 3:23:44 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[7/25/2020 3:23:44 PM]:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[7/25/2020 3:23:44 PM]:righteousriley_!righteousriley_@righteousriley_.tmi.twitch.tv JOIN #righteousriley_
+[7/25/2020 3:23:44 PM]:righteousriley_.tmi.twitch.tv 353 righteousriley_ = #righteousriley_ :righteousriley_
+:righteousriley_.tmi.twitch.tv 366 righteousriley_ #righteousriley_ :End of /NAMES list
+[7/25/2020 3:23:44 PM]@badge-info=subscriber/28;badges=broadcaster/1,subscriber/0;color=#D72828;display-name=RighteousRiley_;emote-sets=0,19194,750790,974217,1239963,300374282,472873131,537206155;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #righteousriley_
+@emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=73899023;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #righteousriley_
+[7/25/2020 3:24:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:24:46 PM]:helm!helm@helm.tmi.twitch.tv JOIN #righteousriley_
+:streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #righteousriley_
+[7/25/2020 3:25:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:25:53 PM]:rileysfirstbot!rileysfirstbot@rileysfirstbot.tmi.twitch.tv JOIN #righteousriley_
+[7/25/2020 3:26:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:27:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:28:30 PM]PING :tmi.twitch.tv
+[7/25/2020 3:28:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:29:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:30:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:31:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:32:37 PM]PING :tmi.twitch.tv
+[7/25/2020 3:32:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:33:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:34:40 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:35:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:36:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:37:33 PM]PING :tmi.twitch.tv
+[7/25/2020 3:37:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:38:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:39:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:40:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:41:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:42:24 PM]PING :tmi.twitch.tv
+[7/25/2020 3:42:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:43:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:44:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:45:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:46:37 PM]PING :tmi.twitch.tv
+[7/25/2020 3:46:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:47:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:48:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:49:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:50:41 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:51:06 PM]PING :tmi.twitch.tv
+[7/25/2020 3:51:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:52:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:53:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:54:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:55:29 PM]PING :tmi.twitch.tv
+[7/25/2020 3:55:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:55:46 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/25/2020 3:56:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:57:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:58:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 3:59:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:00:10 PM]PING :tmi.twitch.tv
+[7/25/2020 4:00:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:01:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:02:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:03:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:04:05 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv PART #righteousriley_
+[7/25/2020 4:04:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:05:08 PM]PING :tmi.twitch.tv
+[7/25/2020 4:05:42 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:06:13 PM]:hotlocalmom!hotlocalmom@hotlocalmom.tmi.twitch.tv JOIN #righteousriley_
+[7/25/2020 4:06:43 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:07:43 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:08:43 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:09:17 PM]PING :tmi.twitch.tv
+[7/25/2020 4:09:43 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:10:23 PM]:helm!helm@helm.tmi.twitch.tv PART #righteousriley_
+[7/25/2020 4:10:43 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:11:43 PM]PONG :tmi.twitch.tv
+[7/25/2020 4:12:24 PM]:helm!helm@helm.tmi.twitch.tv JOIN #righteousriley_

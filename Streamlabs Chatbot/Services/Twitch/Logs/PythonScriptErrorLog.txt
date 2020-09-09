@@ -1,0 +1,10 @@
+[Error] join_command , Message: I/O operation on closed file
+[Error] join_command , Message: I/O operation on closed file
+[Error] join_command , Message: Can not read from party_users.csv
+[Error] join_command , Message: 'list' object has no attribute 'split'
+[Error] join_command , Message: 'list' object has no attribute 'split'
+[Error] join_command , Message: Can not write to join_users.csv
+[Error] join_command , Message: Can not read from join_users.csv
+[Error] join_command , Message: Can not read from join_users.csv
+[Error] join_command , Message: The process cannot access the file 'C:\Users\rcsim\AppData\Roaming\Streamlabs\Streamlabs Chatbot\party_users.csv' because it is being used by another process.
+[Error] join_command , Message: The process cannot access the file 'C:\Users\rcsim\AppData\Roaming\Streamlabs\Streamlabs Chatbot\party_users.csv' because it is being used by another process.

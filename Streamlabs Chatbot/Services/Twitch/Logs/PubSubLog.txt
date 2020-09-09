@@ -1,0 +1,8 @@
+{"type":"RESPONSE","error":"ERR_BADAUTH","nonce":"fac74b3c2eef4c6aa4"}
+
+{"type":"RESPONSE","error":"ERR_BADAUTH","nonce":"c39c7afb19d24b389e"}
+
+{"type":"RESPONSE","error":"ERR_BADAUTH","nonce":"89f038130c2f473f85"}
+
+{"type":"RESPONSE","error":"ERR_BADAUTH","nonce":"6d67616f1cf04b6fa4"}
+
